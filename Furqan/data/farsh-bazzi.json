@@ -1,0 +1,354 @@
+{
+  "_note": "Genuine Ibn Kathīr al-Makkī (via al-Bazzī) farsh variants where Ḥafṣ and Warsh agree but Ibn Kathīr reads differently. idx = Ḥafṣ word index in the tokenised verse. Arabic forms come from the KFGQPC Bazzī ʿan Ibn Kathīr mushaf (verified via scripts/find_bazzi.py); farsh classification per Ibn al-Jazarī, al-Nashr fī al-qirāʾāt al-ʿashr. Seeded from the positions where Ibn Kathīr's reading coincides with Abū ʿAmr's (Basran/Meccan overlap), reusing those already-verified glosses. ~90 further skeleton-confirmed candidates remain (run find_bazzi.py) — curate with sourced glosses before adding.",
+  "cite": "Bazzī ʿan Ibn Kathīr al-Makkī (KFGQPC mushaf); farsh per Ibn al-Jazarī, al-Nashr fī al-qirāʾāt al-ʿashr.",
+  "entries": [
+    {
+      "ref": "2:48",
+      "idx": 9,
+      "shared": "no intercession will be accepted from it (yuqbalu — masculine passive)",
+      "bazzi": "no intercession will be accepted from it (tuqbalu — feminine passive, agreeing with shafāʿa)"
+    },
+    {
+      "ref": "2:74",
+      "idx": 36,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "bazzi": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "2:83",
+      "idx": 6,
+      "shared": "you worship (taʿbudūn — 2nd person plural)",
+      "bazzi": "they worship (yaʿbudūn — 3rd person plural)"
+    },
+    {
+      "ref": "2:283",
+      "idx": 7,
+      "shared": "then a pledge (rihān)",
+      "bazzi": "then a pledge (ruhun — an alternative plural of rahn)"
+    },
+    {
+      "ref": "3:48",
+      "idx": 0,
+      "shared": "teaches him (yuʿallimuh — 3rd person masculine)",
+      "bazzi": "we teach him (nuʿallimuh — 1st person plural)"
+    },
+    {
+      "ref": "3:156",
+      "idx": 34,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "bazzi": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "3:180",
+      "idx": 28,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "bazzi": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "3:187",
+      "idx": 7,
+      "shared": "you will surely make it clear (la-tubayyinunnahu — 2nd person)",
+      "bazzi": "he will surely make it clear (la-yubayyinunnahu — 3rd person)"
+    },
+    {
+      "ref": "3:187",
+      "idx": 10,
+      "shared": "you conceal it (taktumūnahū — 2nd person)",
+      "bazzi": "they conceal it (yaktumūnahū — 3rd person)"
+    },
+    {
+      "ref": "3:188",
+      "idx": 13,
+      "shared": "you suppose about them (tahsabunnahum — 2nd person)",
+      "bazzi": "he supposes about them (yahsibunnahum — 3rd person with kasra)"
+    },
+    {
+      "ref": "4:77",
+      "idx": 46,
+      "shared": "you are wronged (tuẓlamūn — 2nd person plural passive)",
+      "bazzi": "they are wronged (yuẓlamūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "6:32",
+      "idx": 12,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "bazzi": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 25,
+      "shared": "you make it (tajʿalūnahū — 2nd person)",
+      "bazzi": "they make it (yajʿalūnahū — 3rd person)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 27,
+      "shared": "you reveal it (tubdūnahā — 2nd person)",
+      "bazzi": "they reveal it (yubdūnahā — 3rd person)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 28,
+      "shared": "and you conceal (wa-takhfūn — 2nd person)",
+      "bazzi": "and they conceal (wa-yakhfūn — 3rd person)"
+    },
+    {
+      "ref": "6:145",
+      "idx": 13,
+      "shared": "will be (yakūn — 3rd person masculine singular)",
+      "bazzi": "will be (takūn — 2nd person masculine singular)"
+    },
+    {
+      "ref": "7:169",
+      "idx": 39,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "bazzi": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "11:123",
+      "idx": 15,
+      "shared": "of what you do (taʿmalūna — 2nd person)",
+      "bazzi": "of what they do (yaʿmalūna — 3rd person)"
+    },
+    {
+      "ref": "12:12",
+      "idx": 3,
+      "shared": "he may pasture and enjoy himself (yartaʿ — jussive, of Joseph)",
+      "bazzi": "we may pasture and enjoy ourselves (nartaʿ — the brothers, 1st-person plural)"
+    },
+    {
+      "ref": "12:12",
+      "idx": 4,
+      "shared": "and he may play (yalʿab)",
+      "bazzi": "and we may play (nalʿab)"
+    },
+    {
+      "ref": "12:56",
+      "idx": 8,
+      "shared": "He wills (yashāʾu — 3rd person masculine)",
+      "bazzi": "We will (nashāʾu — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "12:109",
+      "idx": 28,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "bazzi": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "17:68",
+      "idx": 2,
+      "shared": "that He should cause the shore to swallow you (yakhsifa — He)",
+      "bazzi": "that We should cause the shore to swallow you (nakhsifa — We)"
+    },
+    {
+      "ref": "17:68",
+      "idx": 7,
+      "shared": "or send against you (yursila — He)",
+      "bazzi": "or that We send against you (nursila — We)"
+    },
+    {
+      "ref": "17:69",
+      "idx": 3,
+      "shared": "He restores you (yuʿīdukum — 3rd person masculine, divine voice)",
+      "bazzi": "We restore you (nuʿīdukum — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "17:69",
+      "idx": 7,
+      "shared": "or He sends (yursil — 3rd person masculine, divine voice)",
+      "bazzi": "or We send (nursil — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "17:69",
+      "idx": 12,
+      "shared": "or He drowns you (yughriqakum — 3rd person masculine, divine voice)",
+      "bazzi": "or We drown you (nughriqakum — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "18:47",
+      "idx": 1,
+      "shared": "We will set them in motion (nusayyiruh — 1st person plural)",
+      "bazzi": "it will be set in motion (tusayyaru — passive form)"
+    },
+    {
+      "ref": "20:133",
+      "idx": 7,
+      "shared": "comes to them (taʾtihim — feminine)",
+      "bazzi": "comes to them (yaʾtihim — masculine)"
+    },
+    {
+      "ref": "21:30",
+      "idx": 0,
+      "shared": "Did they not (awā lam — negative interrogative with wāw)",
+      "bazzi": "Did they not (alam — negative interrogative without wāw)"
+    },
+    {
+      "ref": "22:38",
+      "idx": 2,
+      "shared": "Allah defends (yudāfiʿu — form III)",
+      "bazzi": "Allah repels / defends (yadfaʿu — form I)"
+    },
+    {
+      "ref": "22:47",
+      "idx": 13,
+      "shared": "you count (taʿiddūn — 2nd person plural)",
+      "bazzi": "they count (yaʿiddūn — 3rd person plural)"
+    },
+    {
+      "ref": "22:51",
+      "idx": 4,
+      "shared": "striving to frustrate Our signs (muʿājizīn — form III)",
+      "bazzi": "seeking to thwart Our signs (muʿajjizīn — form II; sense is close)"
+    },
+    {
+      "ref": "24:35",
+      "idx": 16,
+      "shared": "is kindled (yūqadu — form IV passive)",
+      "bazzi": "blazes up (tawaqqada — form V)"
+    },
+    {
+      "ref": "25:25",
+      "idx": 4,
+      "shared": "and We sent down (wa-nuzzila — form II passive, 'was revealed')",
+      "bazzi": "and We send down (wa-nunzilu — form IV active, 'cause to descend'; present/habitual sense)"
+    },
+    {
+      "ref": "27:80",
+      "idx": 5,
+      "shared": "you make [them] hear (tusmiʿu — 2nd person)",
+      "bazzi": "[they] hear (yasmaʿu — 3rd person)"
+    },
+    {
+      "ref": "27:88",
+      "idx": 17,
+      "shared": "of what you do (tafʿalūn — 2nd person plural)",
+      "bazzi": "of what they do (yafʿalūn — 3rd person plural)"
+    },
+    {
+      "ref": "27:93",
+      "idx": 10,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "bazzi": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "28:37",
+      "idx": 0,
+      "shared": "and he said (wa-qāla — with conjunction wāw)",
+      "bazzi": "he said (qāla — without conjunction wāw)"
+    },
+    {
+      "ref": "29:55",
+      "idx": 8,
+      "shared": "and He says (wa-yaqūl — 3rd person masculine)",
+      "bazzi": "and We say (wa-naqūl — 1st person plural)"
+    },
+    {
+      "ref": "30:52",
+      "idx": 5,
+      "shared": "you make [them] hear (tusmiʿu — 2nd person)",
+      "bazzi": "[they] hear (yasmaʿu — 3rd person)"
+    },
+    {
+      "ref": "33:30",
+      "idx": 7,
+      "shared": "will be doubled (yuḍāʿaf — form III passive)",
+      "bazzi": "We will double (nuḍaʿʿif — form II, 1st person plural)"
+    },
+    {
+      "ref": "38:53",
+      "idx": 2,
+      "shared": "you are promised (tūʿadūn — 2nd person plural passive)",
+      "bazzi": "they are promised (yūʿadūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "40:52",
+      "idx": 2,
+      "shared": "it will avail (yanfaʿ — 3rd person masculine)",
+      "bazzi": "it will avail (tanfaʿ — 3rd person feminine, grammatical gender agreement)"
+    },
+    {
+      "ref": "43:71",
+      "idx": 8,
+      "shared": "you desire it (tashtahīhi — 2nd person with attached object pronoun)",
+      "bazzi": "you desire (tashtahī — 2nd person without object pronoun)"
+    },
+    {
+      "ref": "43:85",
+      "idx": 12,
+      "shared": "you are returned (turjaʿūn — 2nd person plural passive)",
+      "bazzi": "they are returned (yurjaʿūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 0,
+      "shared": "you believe (tuʾminū — 2nd person plural)",
+      "bazzi": "they believe (yuʾminū — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 3,
+      "shared": "and you honor him (wa-tuʿazzirūh — 2nd person plural)",
+      "bazzi": "and they honor him (wa-yuʿazzirūh — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 4,
+      "shared": "and you respect him (wa-tuwaqqirūh — 2nd person plural)",
+      "bazzi": "and they respect him (wa-yuwaqqirūh — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 5,
+      "shared": "and you glorify him (wa-tusabbihūh — 2nd person plural)",
+      "bazzi": "and they glorify him (wa-yusabbihūh — 3rd person plural)"
+    },
+    {
+      "ref": "49:18",
+      "idx": 9,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "bazzi": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "50:32",
+      "idx": 2,
+      "shared": "you are promised (tūʿadūn — 2nd person plural passive)",
+      "bazzi": "they are promised (yūʿadūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "69:41",
+      "idx": 6,
+      "shared": "you believe (tuʾminūn — 2nd person plural)",
+      "bazzi": "they believe (yuʾminūn — 3rd person plural)"
+    },
+    {
+      "ref": "69:42",
+      "idx": 5,
+      "shared": "you take heed (tadhakkarūn — 2nd person plural)",
+      "bazzi": "they take heed (yadhakkarūn — 3rd person plural)"
+    },
+    {
+      "ref": "75:20",
+      "idx": 2,
+      "shared": "you love (tuhibbūn — 2nd person plural)",
+      "bazzi": "they love (yuhibbūn — 3rd person plural)"
+    },
+    {
+      "ref": "75:21",
+      "idx": 0,
+      "shared": "and you neglect (wa-tadhārūn — 2nd person plural)",
+      "bazzi": "and they neglect (wa-yadhārūn — 3rd person plural)"
+    },
+    {
+      "ref": "76:30",
+      "idx": 1,
+      "shared": "you will (tashāʾūn — 2nd person plural)",
+      "bazzi": "they will (yashāʾūn — 3rd person plural)"
+    },
+    {
+      "ref": "88:11",
+      "idx": 1,
+      "shared": "you hear it (tasmaʿu — 2nd person singular active)",
+      "bazzi": "it is heard (yusmāʿu — 3rd person singular passive)"
+    }
+  ]
+}

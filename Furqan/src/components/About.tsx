@@ -86,6 +86,14 @@ export default function About() {
           affiliated with any of the sources above.
         </p>
       </section>
+
+      <section className="ab-block">
+        <h2 className="ab-h">Contact</h2>
+        <p>
+          Corrections, questions, and source suggestions are welcome:{" "}
+          <a href="mailto:solendor.queries@gmail.com">solendor.queries@gmail.com</a>
+        </p>
+      </section>
     </main>
   );
 }

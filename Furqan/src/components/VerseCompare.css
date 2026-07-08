@@ -1,6 +1,7 @@
 @font-face { font-family: 'Hafs'; src: url('/fonts/hafs.woff2') format('woff2'); font-display: swap; }
 @font-face { font-family: 'Warsh'; src: url('/fonts/warsh.woff2') format('woff2'); font-display: swap; }
 @font-face { font-family: 'AbuAmr'; src: url('/fonts/abuamr.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'Bazzi'; src: url('/fonts/bazzi.woff2') format('woff2'); font-display: swap; }
 
 .vc-verse-block { border-top: 1px solid var(--border); padding-top: 22px; border-radius: 12px; transition: background .4s; }
 .vc-verse-block:first-child { border-top: none; padding-top: 0; }
@@ -23,6 +24,7 @@
 .vc-verse.hafs { font-family: 'Hafs', serif; }
 .vc-verse.warsh { font-family: 'Warsh', serif; }
 .vc-verse.abuamr { font-family: 'AbuAmr', serif; }
+.vc-verse.bazzi { font-family: 'Bazzi', serif; }
 .vc-inline { display: inline; font-size: 1.3em; direction: rtl; }
 
 .vc-w { position: relative; cursor: pointer; border-radius: 6px; }
@@ -53,7 +55,7 @@
 .vc-badge { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; padding: 2px 8px; border-radius: 20px; }
 .vc-badge.hafs { background: var(--accent-dim); color: var(--accent); }
 .vc-badge.warsh { background: var(--variant-dim); color: var(--variant); }
-.vc-badge.abuamr { background: var(--minor-dim); color: var(--minor); }
+.vc-badge.abuamr, .vc-badge.bazzi { background: var(--minor-dim); color: var(--minor); }
 .vc-diff-cite { font-size: 11px; color: var(--text-muted); margin-top: 2px; line-height: 1.5; }
 
 .vc-panel { margin-top: 20px; background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px 24px; }
@@ -64,6 +66,7 @@
 .vc-row { display: flex; align-items: center; gap: 14px; margin: 8px 0; padding: 10px 12px; background: var(--bg-secondary); border-radius: 10px; }
 .vc-row .ar { font-size: calc(30px * var(--ar-scale)); min-width: 120px; text-align: center; direction: rtl; }
 .vc-row .ar.hafs { font-family: 'Hafs', serif; } .vc-row .ar.warsh { font-family: 'Warsh', serif; }
+.vc-row .ar.abuamr { font-family: 'AbuAmr', serif; } .vc-row .ar.bazzi { font-family: 'Bazzi', serif; }
 .vc-row .meta { font-size: 13px; color: var(--text); } .vc-row .meta b { display: block; margin-bottom: 2px; } .vc-row .meta span { color: var(--text-secondary); }
 .vc-note { font-size: calc(13.5px * var(--en-scale)); line-height: 1.6; margin-top: 14px; padding: 12px 14px; background: var(--accent-dim); border-radius: 10px; color: var(--text); }
 .vc-more { margin-top: 12px; font-size: 12.5px; }

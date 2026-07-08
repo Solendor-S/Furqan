@@ -18,10 +18,14 @@ export default function Readings({ go, target, clearTarget }: Props) {
   const [scrollTo, setScrollTo] = useState<number | null>(null);
   const [ayaSel, setAyaSel] = useState<number | "">("");
   const [showAbuAmr, setShowAbuAmr] = useState(() => localStorage.getItem("showAbuAmr") === "1");
+  const [showBazzi, setShowBazzi] = useState(() => localStorage.getItem("showBazzi") === "1");
 
   useEffect(() => {
     localStorage.setItem("showAbuAmr", showAbuAmr ? "1" : "0");
   }, [showAbuAmr]);
+  useEffect(() => {
+    localStorage.setItem("showBazzi", showBazzi ? "1" : "0");
+  }, [showBazzi]);
 
   // stable identity so memoized VerseCompare isn't re-rendered on every Readings render
   const openTension = useCallback((id: string) => go({ view: "tensions", id }), [go]);
@@ -55,7 +59,8 @@ export default function Readings({ go, target, clearTarget }: Props) {
     clearTarget();
   }, [target, clearTarget]);
 
-  const hasVariants = (s: IndexEntry) => s.variant_verses > 0 || (showAbuAmr && s.abuamr_verses > 0);
+  const hasVariants = (s: IndexEntry) =>
+    s.variant_verses > 0 || (showAbuAmr && s.abuamr_verses > 0) || (showBazzi && s.bazzi_verses > 0);
 
   // keep the selected surah to one that has variants (only while filtering)
   useEffect(() => {
@@ -65,7 +70,7 @@ export default function Readings({ go, target, clearTarget }: Props) {
       const first = index.find(hasVariants);
       if (first) setSurah(first.surah);
     }
-  }, [variantsOnly, index, surah, showAbuAmr]);
+  }, [variantsOnly, index, surah, showAbuAmr, showBazzi]);
 
   useEffect(() => {
     setData(null);
@@ -92,7 +97,8 @@ export default function Readings({ go, target, clearTarget }: Props) {
 
   const surahOptions = index.filter((s) => !variantsOnly || hasVariants(s));
   const verses = data?.verses.filter(
-    (v) => !variantsOnly || v.reading.length > 0 || (showAbuAmr && v.abuamr_only.length > 0)
+    (v) => !variantsOnly || v.reading.length > 0
+      || (showAbuAmr && v.abuamr_only.length > 0) || (showBazzi && v.bazzi_only.length > 0)
   ) ?? [];
 
   return (
@@ -102,7 +108,7 @@ export default function Readings({ go, target, clearTarget }: Props) {
           <Dropdown className="rd-surah" ariaLabel="Surah" value={String(surah)}
             onChange={(v) => setSurah(Number(v))}
             options={surahOptions.map((s) => {
-              const n = s.variant_verses + (showAbuAmr ? s.abuamr_verses : 0);
+              const n = s.variant_verses + (showAbuAmr ? s.abuamr_verses : 0) + (showBazzi ? s.bazzi_verses : 0);
               return {
                 value: String(s.surah),
                 label: `${s.surah}. ${s.name_en} (${n} variant${n === 1 ? "" : "s"})`,
@@ -123,6 +129,11 @@ export default function Readings({ go, target, clearTarget }: Props) {
             onChange={(e) => setShowAbuAmr(e.target.checked)} />
           + Abū ʿAmr
         </label>
+        <label className="app-toggle">
+          <input type="checkbox" checked={showBazzi}
+            onChange={(e) => setShowBazzi(e.target.checked)} />
+          + Ibn Kathīr
+        </label>
       </div>
       <div className="app-legend">
         <span><i className="vc-sw r" /> meaning variant (different reading)</span>
@@ -136,7 +147,7 @@ export default function Readings({ go, target, clearTarget }: Props) {
       ) : (
         <main className="app-verses">
           {verses.map((v) => (
-            <VerseCompare key={v.hafs_aya} surah={surah} verse={v} showAbuAmr={showAbuAmr}
+            <VerseCompare key={v.hafs_aya} surah={surah} verse={v} showAbuAmr={showAbuAmr} showBazzi={showBazzi}
               tensions={verseTensions[`${surah}:${v.hafs_aya}`]}
               onOpenTension={openTension} />
           ))}

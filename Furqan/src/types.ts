@@ -2,16 +2,21 @@ export type Verse = {
   hafs_aya: number;
   warsh_aya: number;
   abuamr_aya: number;
+  bazzi_aya: number;
   hafs: string[];
   warsh: string[];   // aligned to hafs positions; "" = no counterpart (e.g. basmala)
   abuamr: string[];  // Abū ʿAmr al-Baṣrī (al-Dūrī), aligned to hafs positions
+  bazzi: string[];   // Ibn Kathīr al-Makkī (al-Bazzī), aligned to hafs positions
   reading: number[]; // Hafs word indices that are a curated Ḥafṣ↔Warsh reading variant
   ortho: number[];   // minor differences (spelling / Warsh pronunciation rules)
   abuamr_only: number[]; // Ḥafṣ≈Warsh but Abū ʿAmr differs — shown only with the Abū ʿAmr column
+  bazzi_only: number[];  // Ḥafṣ≈Warsh but Ibn Kathīr differs — shown only with the Ibn Kathīr column
   meaning?: Record<string, {
     hafs?: string; warsh?: string;                       // Ḥafṣ↔Warsh variant glosses
-    abuamr?: { ar: string; like?: "hafs" | "warsh" | "distinct"; gloss?: string };
-    shared?: string; cite?: string;                      // Abū ʿAmr-only: shared Ḥafṣ/Warsh reading + source
+    abuamr?: { ar: string; like?: "hafs" | "warsh" | "distinct"; gloss?: string; cite?: string };
+    bazzi?: { ar: string; like?: "hafs" | "warsh" | "distinct"; gloss?: string; cite?: string };
+    shared?: string;                                     // third-reading-only: the shared Ḥafṣ/Warsh reading (each fork carries its own cite)
+    shared_by?: ("abuamr" | "bazzi")[];                  // third readings that also read the shared baseline here
   }>; // keyed by word index
   en: string;        // English translation (Pickthall, public domain) — Hafs reading
   wbw?: [string, string][]; // per-word [translation, transliteration] (quran.com), aligned to hafs tokens
@@ -31,6 +36,7 @@ export type IndexEntry = {
   ayat: number;
   variant_verses: number;
   abuamr_verses: number;
+  bazzi_verses: number;
 };
 
 // --- Hadith <-> Qur'an tensions ---

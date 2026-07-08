@@ -2,41 +2,401 @@
   "_note": "Genuine Abū ʿAmr al-Baṣrī (via al-Dūrī) farsh variants where Ḥafṣ and Warsh agree but Abū ʿAmr reads differently. idx = Ḥafṣ word index in the tokenised verse. Arabic forms come from the KFGQPC Dūrī ʿan Abī ʿAmr mushaf; farsh classification per Ibn al-Jazarī, al-Nashr fī al-qirāʾāt al-ʿashr.",
   "cite": "Dūrī ʿan Abī ʿAmr (KFGQPC mushaf); farsh per Ibn al-Jazarī, al-Nashr fī al-qirāʾāt al-ʿashr.",
   "entries": [
-    { "ref": "12:12", "idx": 3,
-      "shared": "he may pasture and enjoy himself (yartaʿ — jussive, of Joseph)",
-      "abuamr": "we may pasture and enjoy ourselves (nartaʿ — the brothers, 1st-person plural)" },
-    { "ref": "12:12", "idx": 4,
-      "shared": "and he may play (yalʿab)",
-      "abuamr": "and we may play (nalʿab)" },
-    { "ref": "20:63", "idx": 2,
-      "shared": "these two (hādhāni — nominative dual form)",
-      "abuamr": "these two (hādhayni — accusative dual, the case grammar expects after inna)" },
-    { "ref": "2:283", "idx": 7,
-      "shared": "then a pledge (rihān)",
-      "abuamr": "then a pledge (ruhun — an alternative plural of rahn)" },
-    { "ref": "20:102", "idx": 1,
-      "shared": "the Trumpet is blown (yunfakhu — passive)",
-      "abuamr": "We blow the Trumpet (nanfukhu — 1st-person plural)" },
-    { "ref": "22:38", "idx": 2,
-      "shared": "Allah defends (yudāfiʿu — form III)",
-      "abuamr": "Allah repels / defends (yadfaʿu — form I)" },
-    { "ref": "22:51", "idx": 4,
-      "shared": "striving to frustrate Our signs (muʿājizīn — form III)",
-      "abuamr": "seeking to thwart Our signs (muʿajjizīn — form II; sense is close)" },
-    { "ref": "2:48", "idx": 9,
+    {
+      "ref": "2:48",
+      "idx": 9,
       "shared": "no intercession will be accepted from it (yuqbalu — masculine passive)",
-      "abuamr": "no intercession will be accepted from it (tuqbalu — feminine passive, agreeing with shafāʿa)" },
-    { "ref": "2:149", "idx": 16,
+      "abuamr": "no intercession will be accepted from it (tuqbalu — feminine passive, agreeing with shafāʿa)"
+    },
+    {
+      "ref": "2:149",
+      "idx": 16,
       "shared": "of what you do (taʿmalūna — 2nd person)",
-      "abuamr": "of what they do (yaʿmalūna — 3rd person)" },
-    { "ref": "11:123", "idx": 15,
+      "abuamr": "of what they do (yaʿmalūna — 3rd person)"
+    },
+    {
+      "ref": "2:283",
+      "idx": 7,
+      "shared": "then a pledge (rihān)",
+      "abuamr": "then a pledge (ruhun — an alternative plural of rahn)"
+    },
+    {
+      "ref": "3:48",
+      "idx": 0,
+      "shared": "teaches him (yuʿallimuh — 3rd person masculine)",
+      "abuamr": "we teach him (nuʿallimuh — 1st person plural)"
+    },
+    {
+      "ref": "3:180",
+      "idx": 28,
+      "shared": "of what you do (taʿmalūna — 2nd person plural)",
+      "abuamr": "of what they do (yaʿmalūna — 3rd person plural)"
+    },
+    {
+      "ref": "3:187",
+      "idx": 7,
+      "shared": "you will surely make it clear (la-tubayyinunnahu — 2nd person)",
+      "abuamr": "he will surely make it clear (la-yubayyinunnahu — 3rd person)"
+    },
+    {
+      "ref": "3:187",
+      "idx": 10,
+      "shared": "you conceal it (taktumūnahū — 2nd person)",
+      "abuamr": "they conceal it (yaktumūnahū — 3rd person)"
+    },
+    {
+      "ref": "3:188",
+      "idx": 13,
+      "shared": "you suppose about them (tahsabunnahum — 2nd person)",
+      "abuamr": "he supposes about them (yahsibunnahum — 3rd person with kasra)"
+    },
+    {
+      "ref": "4:114",
+      "idx": 23,
+      "shared": "we give him (nuʾtīhi — 1st person plural)",
+      "abuamr": "he gives him (yuʾtīhi — 3rd person masculine)"
+    },
+    {
+      "ref": "6:32",
+      "idx": 12,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "abuamr": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "6:57",
+      "idx": 17,
+      "shared": "He relates the truth (yaquṣṣu — from qaṣṣa, to narrate)",
+      "abuamr": "He decides by the truth (yaqḍi — from qaḍā, to judge/decree)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 25,
+      "shared": "you make it (tajʿalūnahū — 2nd person)",
+      "abuamr": "they make it (yajʿalūnahū — 3rd person)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 27,
+      "shared": "you reveal it (tubdūnahā — 2nd person)",
+      "abuamr": "they reveal it (yubdūnahā — 3rd person)"
+    },
+    {
+      "ref": "6:91",
+      "idx": 28,
+      "shared": "and you conceal (wa-takhfūn — 2nd person)",
+      "abuamr": "and they conceal (wa-yakhfūn — 3rd person)"
+    },
+    {
+      "ref": "7:161",
+      "idx": 17,
+      "shared": "your errors (khaṭīʾātikum — feminine plural noun form)",
+      "abuamr": "your errors (khaṭāyākum — alternative plural of the error root)"
+    },
+    {
+      "ref": "7:169",
+      "idx": 39,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "abuamr": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "7:172",
+      "idx": 18,
+      "shared": "you say (taqūlū — 2nd person plural)",
+      "abuamr": "they say (yaqūlū — 3rd person plural)"
+    },
+    {
+      "ref": "7:173",
+      "idx": 1,
+      "shared": "you say (taqūlū — 2nd person plural)",
+      "abuamr": "they say (yaqūlū — 3rd person plural)"
+    },
+    {
+      "ref": "8:67",
+      "idx": 4,
+      "shared": "will be (yakūn — 3rd person masculine singular)",
+      "abuamr": "will be (takūn — 2nd person masculine singular)"
+    },
+    {
+      "ref": "11:123",
+      "idx": 15,
       "shared": "of what you do (taʿmalūna — 2nd person)",
-      "abuamr": "of what they do (yaʿmalūna — 3rd person)" },
-    { "ref": "17:68", "idx": 2,
+      "abuamr": "of what they do (yaʿmalūna — 3rd person)"
+    },
+    {
+      "ref": "12:12",
+      "idx": 3,
+      "shared": "he may pasture and enjoy himself (yartaʿ — jussive, of Joseph)",
+      "abuamr": "we may pasture and enjoy ourselves (nartaʿ — the brothers, 1st-person plural)"
+    },
+    {
+      "ref": "12:12",
+      "idx": 4,
+      "shared": "and he may play (yalʿab)",
+      "abuamr": "and we may play (nalʿab)"
+    },
+    {
+      "ref": "12:109",
+      "idx": 28,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "abuamr": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "16:48",
+      "idx": 8,
+      "shared": "incline/turn (yatafayyaʾu — masculine)",
+      "abuamr": "incline/turn (tatafayyaʾu — feminine, agreeing with ẓilāl, ‘shadows’)"
+    },
+    {
+      "ref": "17:2",
+      "idx": 8,
+      "shared": "you take (tattakhidhū — 2nd person plural)",
+      "abuamr": "they take (yattakhidhū — 3rd person plural)"
+    },
+    {
+      "ref": "17:68",
+      "idx": 2,
       "shared": "that He should cause the shore to swallow you (yakhsifa — He)",
-      "abuamr": "that We should cause the shore to swallow you (nakhsifa — We)" },
-    { "ref": "17:68", "idx": 7,
+      "abuamr": "that We should cause the shore to swallow you (nakhsifa — We)"
+    },
+    {
+      "ref": "17:68",
+      "idx": 7,
       "shared": "or send against you (yursila — He)",
-      "abuamr": "or that We send against you (nursila — We)" }
+      "abuamr": "or that We send against you (nursila — We)"
+    },
+    {
+      "ref": "17:69",
+      "idx": 3,
+      "shared": "He restores you (yuʿīdukum — 3rd person masculine, divine voice)",
+      "abuamr": "We restore you (nuʿīdukum — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "17:69",
+      "idx": 7,
+      "shared": "or He sends (yursil — 3rd person masculine, divine voice)",
+      "abuamr": "or We send (nursil — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "17:69",
+      "idx": 12,
+      "shared": "or He drowns you (yughriqakum — 3rd person masculine, divine voice)",
+      "abuamr": "or We drown you (nughriqakum — 1st person plural, divine 'We')"
+    },
+    {
+      "ref": "18:47",
+      "idx": 1,
+      "shared": "We set them in motion (nusayyiru — 1st person plural)",
+      "abuamr": "it is set in motion (tusayyaru — passive)"
+    },
+    {
+      "ref": "19:90",
+      "idx": 2,
+      "shared": "almost burst apart (yatafaṭṭarna — form V, from faṭara)",
+      "abuamr": "burst apart (yanfaṭirna — form VII, from faṭara)"
+    },
+    {
+      "ref": "20:63",
+      "idx": 2,
+      "shared": "these two (hādhāni — nominative dual form)",
+      "abuamr": "these two (hādhayni — accusative dual, the case grammar expects after inna)"
+    },
+    {
+      "ref": "20:102",
+      "idx": 1,
+      "shared": "the Trumpet is blown (yunfakhu — passive)",
+      "abuamr": "We blow the Trumpet (nanfukhu — 1st-person plural)"
+    },
+    {
+      "ref": "22:38",
+      "idx": 2,
+      "shared": "Allah defends (yudāfiʿu — form III)",
+      "abuamr": "Allah repels / defends (yadfaʿu — form I)"
+    },
+    {
+      "ref": "22:45",
+      "idx": 3,
+      "shared": "We destroyed it (ahlaknāhā — 1st person plural)",
+      "abuamr": "you destroyed it (ahlaktuhā — 2nd person singular masculine)"
+    },
+    {
+      "ref": "22:51",
+      "idx": 4,
+      "shared": "striving to frustrate Our signs (muʿājizīn — form III)",
+      "abuamr": "seeking to thwart Our signs (muʿajjizīn — form II; sense is close)"
+    },
+    {
+      "ref": "24:35",
+      "idx": 16,
+      "shared": "is kindled (yūqadu — form IV passive)",
+      "abuamr": "blazes up (tawaqqada — form V)"
+    },
+    {
+      "ref": "27:62",
+      "idx": 15,
+      "shared": "you remember (tadhakkarūn — 2nd person plural)",
+      "abuamr": "they remember (yadhakkarūn — 3rd person plural)"
+    },
+    {
+      "ref": "27:88",
+      "idx": 17,
+      "shared": "of what you do (tafʿalūn — 2nd person plural)",
+      "abuamr": "of what they do (yafʿalūn — 3rd person plural)"
+    },
+    {
+      "ref": "27:93",
+      "idx": 10,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "abuamr": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "28:60",
+      "idx": 14,
+      "shared": "of what you understand (taʿqilūn — 2nd person)",
+      "abuamr": "of what they understand (yaʿqilūn — 3rd person)"
+    },
+    {
+      "ref": "29:55",
+      "idx": 8,
+      "shared": "and He says (wa-yaqūl — 3rd person masculine)",
+      "abuamr": "and We say (wa-naqūl — 1st person plural)"
+    },
+    {
+      "ref": "30:11",
+      "idx": 7,
+      "shared": "you are returned (turjaʿūn — 2nd person plural passive)",
+      "abuamr": "they are returned (yurjaʿūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "33:2",
+      "idx": 10,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "abuamr": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "33:9",
+      "idx": 19,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "abuamr": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "33:52",
+      "idx": 1,
+      "shared": "it is lawful (yaḥillu — masculine)",
+      "abuamr": "it is lawful (taḥillu — feminine, agreeing with an-nisāʾ, ‘women’)"
+    },
+    {
+      "ref": "38:53",
+      "idx": 2,
+      "shared": "you are promised (tūʿadūn — 2nd person plural passive)",
+      "abuamr": "they are promised (yūʿadūn — 3rd person plural passive)"
+    },
+    {
+      "ref": "40:52",
+      "idx": 2,
+      "shared": "it will avail (yanfaʿ — 3rd person masculine)",
+      "abuamr": "it will avail (tanfaʿ — 3rd person feminine, grammatical gender agreement)"
+    },
+    {
+      "ref": "42:5",
+      "idx": 2,
+      "shared": "almost burst apart (yatafaṭṭarna — form V, from faṭara)",
+      "abuamr": "burst apart (yanfaṭirna — form VII, from faṭara)"
+    },
+    {
+      "ref": "43:71",
+      "idx": 8,
+      "shared": "you desire it (tashtahīhi — 2nd person with attached object pronoun)",
+      "abuamr": "you desire (tashtahī — 2nd person without object pronoun, general desiring)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 0,
+      "shared": "you believe (tuʾminū — 2nd person plural)",
+      "abuamr": "they believe (yuʾminū — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 3,
+      "shared": "and you honor him (wa-tuʿazzirūh — 2nd person plural)",
+      "abuamr": "and they honor him (wa-yuʿazzirūh — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 4,
+      "shared": "and you respect him (wa-tuwaqqirūh — 2nd person plural)",
+      "abuamr": "and they respect him (wa-yuwaqqirūh — 3rd person plural)"
+    },
+    {
+      "ref": "48:9",
+      "idx": 5,
+      "shared": "and you glorify him (wa-tusabbihūh — 2nd person plural)",
+      "abuamr": "and they glorify him (wa-yusabbihūh — 3rd person plural)"
+    },
+    {
+      "ref": "48:24",
+      "idx": 17,
+      "shared": "of what you do (taʿmalūn — 2nd person plural)",
+      "abuamr": "of what they do (yaʿmalūn — 3rd person plural)"
+    },
+    {
+      "ref": "52:21",
+      "idx": 2,
+      "shared": "and their descendants followed them (wa-ittabaʿathum — form VIII, they followed)",
+      "abuamr": "and We caused their descendants to follow them (wa-atbaʿnāhum — form IV causative, 1st person plural active)"
+    },
+    {
+      "ref": "71:25",
+      "idx": 1,
+      "shared": "their errors (khaṭīʾātihim — feminine plural noun form)",
+      "abuamr": "their errors (khaṭāyāhum — alternative plural of the error root)"
+    },
+    {
+      "ref": "75:20",
+      "idx": 2,
+      "shared": "you love (tuhibbūn — 2nd person plural)",
+      "abuamr": "they love (yuhibbūn — 3rd person plural)"
+    },
+    {
+      "ref": "75:21",
+      "idx": 0,
+      "shared": "and you neglect (wa-tadhārūn — 2nd person plural)",
+      "abuamr": "and they neglect (wa-yadhārūn — 3rd person plural)"
+    },
+    {
+      "ref": "76:30",
+      "idx": 1,
+      "shared": "you will (tashāʾūn — 2nd person plural)",
+      "abuamr": "they will (yashāʾūn — 3rd person plural)"
+    },
+    {
+      "ref": "87:16",
+      "idx": 1,
+      "shared": "you prefer (tuʾthirūn — 2nd person plural)",
+      "abuamr": "they prefer (yuʾthirūn — 3rd person plural)"
+    },
+    {
+      "ref": "88:11",
+      "idx": 1,
+      "shared": "you hear (tasmaʿu — 2nd person active)",
+      "abuamr": "is heard (yusmaʿu — passive)"
+    },
+    {
+      "ref": "89:17",
+      "idx": 3,
+      "shared": "you honor (tukrimūn — 2nd person plural)",
+      "abuamr": "they honor (yukrimūn — 3rd person plural)"
+    },
+    {
+      "ref": "89:19",
+      "idx": 0,
+      "shared": "and you eat (wa-taʾkulūn — 2nd person plural)",
+      "abuamr": "and they eat (wa-yaʾkulūn — 3rd person plural)"
+    },
+    {
+      "ref": "89:20",
+      "idx": 0,
+      "shared": "and you love (wa-tuhibbūn — 2nd person plural)",
+      "abuamr": "and they love (wa-yuhibbūn — 3rd person plural)"
+    }
   ]
 }
