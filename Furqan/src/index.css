@@ -1,0 +1,66 @@
+/* Palette aligned to BibleAndroidApp (Patristica): warm parchment + muted gold.
+   Theme control: no data-theme = Auto (follows device); data-theme forces a theme. */
+:root {
+  color-scheme: light dark;
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  --serif: Georgia, "Times New Roman", serif;
+  --ar-scale: 1;
+  --en-scale: 1;
+}
+
+/* --- light (default + Auto in a light OS) --- */
+:root, :root[data-theme="light"] {
+  --bg: #f5f0e8;
+  --bg-secondary: #ede8de;
+  --card: #f0ebe2;
+  --border: #d4cfc6;
+  --border-light: #ccc7be;
+  --text: #2a2218;
+  --text-secondary: #5a5040;
+  --text-muted: #8a8070;
+  --accent: #9a6a20;
+  --accent-dim: rgba(154, 106, 32, 0.12);
+  --variant: #a23a2a;
+  --variant-dim: rgba(162, 58, 42, 0.10);
+  --variant-strong: rgba(162, 58, 42, 0.22);
+  --minor: #5a8a6a;
+  --minor-dim: rgba(90, 138, 106, 0.16);
+  --scripture: #3d6f8e;
+  --scripture-dim: rgba(61, 111, 142, 0.12);
+}
+
+/* --- dark values (shared by Auto-in-dark and explicit dark) --- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]):not([data-theme="contrast"]) {
+    --bg: #1a1a1a; --bg-secondary: #222; --card: #252525;
+    --border: #333; --border-light: #3a3a3a;
+    --text: #e8e0d0; --text-secondary: #b0a898; --text-muted: #6b6560;
+    --accent: #c9a45a; --accent-dim: rgba(201,164,90,0.15);
+    --variant: #e0876f; --variant-dim: rgba(224,135,111,0.13); --variant-strong: rgba(224,135,111,0.26);
+    --minor: #7fa88a; --minor-dim: rgba(127,168,138,0.18);
+    --scripture: #7fa8c8; --scripture-dim: rgba(127,168,200,0.15);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1a1a1a; --bg-secondary: #222; --card: #252525;
+  --border: #333; --border-light: #3a3a3a;
+  --text: #e8e0d0; --text-secondary: #b0a898; --text-muted: #6b6560;
+  --accent: #c9a45a; --accent-dim: rgba(201,164,90,0.15);
+  --variant: #e0876f; --variant-dim: rgba(224,135,111,0.13); --variant-strong: rgba(224,135,111,0.26);
+  --minor: #7fa88a; --minor-dim: rgba(127,168,138,0.18);
+  --scripture: #7fa8c8; --scripture-dim: rgba(127,168,200,0.15);
+}
+
+/* --- high contrast --- */
+:root[data-theme="contrast"] {
+  --bg: #000; --bg-secondary: #0a0a0a; --card: #0f0f0f;
+  --border: #555; --border-light: #666;
+  --text: #fff; --text-secondary: #ddd; --text-muted: #aaa;
+  --accent: #ffd700; --accent-dim: rgba(255,215,0,0.15);
+  --variant: #ff7a5c; --variant-dim: rgba(255,122,92,0.18); --variant-strong: rgba(255,122,92,0.32);
+  --minor: #00e676; --minor-dim: rgba(0,230,118,0.18);
+  --scripture: #4fc3f7; --scripture-dim: rgba(79,195,247,0.18);
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); }

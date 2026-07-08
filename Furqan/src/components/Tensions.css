@@ -1,0 +1,70 @@
+.tn-list { display: flex; flex-direction: column; gap: 24px; }
+
+.tn-picker { display: flex; flex-direction: column; gap: 12px; }
+.tn-picker-intro { font-size: 13.5px; line-height: 1.6; color: var(--text-secondary); margin: 0 0 6px; }
+.tn-pick { display: flex; align-items: center; gap: 12px; text-align: left; width: 100%; background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; cursor: pointer; color: inherit; }
+.tn-pick:hover { border-color: var(--accent); }
+.tn-pick-text { flex: 1; }
+.tn-pick-title { font-family: var(--serif); font-size: 18px; font-weight: 700; color: var(--text); }
+.tn-pick-q { font-size: 13px; color: var(--text-secondary); margin-top: 3px; }
+.tn-pick-chev { font-size: 26px; color: var(--text-muted); line-height: 1; }
+
+.tn-back { background: transparent; border: none; color: var(--accent); font-size: 14px; font-weight: 600; cursor: pointer; padding: 0; margin-bottom: 4px; align-self: flex-start; }
+
+.tn-case { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 22px 22px 18px; }
+.tn-title { font-family: var(--serif); font-size: 22px; font-weight: 700; margin: 0 0 4px; color: var(--text); }
+.tn-question { font-size: calc(14px * var(--en-scale)); color: var(--text-secondary); margin: 0 0 18px; font-style: italic; }
+
+.tn-block { margin: 18px 0; }
+.tn-heading { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; margin-bottom: 4px; }
+.tn-heading.quran { color: var(--accent); }
+.tn-heading.hadith { color: var(--variant); }
+.tn-heading.scripture { color: var(--scripture); }
+.tn-heading.reading { color: var(--variant); }
+.tn-note { font-size: calc(13px * var(--en-scale)); color: var(--text-muted); margin: 0 0 12px; }
+
+.tn-quote { border-left: 3px solid var(--border); padding: 6px 0 6px 14px; margin: 12px 0; }
+.tn-quote.quran { border-left-color: var(--accent); }
+.tn-quote.hadith { border-left-color: var(--variant); }
+.tn-quote.scripture { border-left-color: var(--scripture); }
+.scripture-text { font-style: italic; }
+
+/* category badge (picker + case header) */
+.tn-cat { display: inline-block; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; padding: 3px 9px; border-radius: 20px; margin-bottom: 8px; }
+.tn-cat.quran-bible { background: var(--scripture-dim); color: var(--scripture); }
+.tn-cat.quran-hadith { background: var(--variant-dim); color: var(--variant); }
+.tn-cat.quran-quran { background: var(--accent-dim); color: var(--accent); }
+/* Morals pillar categories */
+.tn-cat.marriage, .tn-cat.women { background: var(--scripture-dim); color: var(--scripture); }
+.tn-cat.violence, .tn-cat.punishment { background: var(--variant-dim); color: var(--variant); }
+.tn-cat.slavery { background: var(--accent-dim); color: var(--accent); }
+.tn-ar { font-size: calc(24px * var(--ar-scale)); font-family: 'Hafs', var(--serif); direction: rtl; text-align: right; line-height: 2; color: var(--text); }
+.tn-en { font-family: var(--serif); font-size: calc(15px * var(--en-scale)); line-height: 1.6; color: var(--text); margin-top: 6px; }
+.tn-ref { font-size: 11.5px; color: var(--text-muted); margin-top: 8px; }
+.tn-ref a { color: var(--accent); text-decoration: none; }
+.tn-ref-link { display: inline-block; background: none; border: none; padding: 0; margin-top: 8px; cursor: pointer;
+  font-size: 11.5px; font-weight: 600; color: var(--accent); }
+.tn-ref-link:hover { text-decoration: underline; }
+
+.tn-reading { border-left: 3px solid var(--variant); padding: 8px 0 8px 14px; margin: 12px 0; }
+.tn-reading-label { font-size: 12px; font-weight: 700; color: var(--variant); text-transform: uppercase; letter-spacing: .4px; }
+.tn-reading-ar { font-size: calc(34px * var(--ar-scale)); line-height: 1.9; margin: 6px 0; }
+.tn-hl { color: var(--variant); background: var(--variant-dim); border-radius: 6px; padding: 0 4px; }
+.tn-reading-meaning { font-size: calc(13.5px * var(--en-scale)); line-height: 1.55; color: var(--text-secondary); }
+
+.tn-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; color: var(--text-secondary); margin-bottom: 8px; }
+.tn-tension { padding: 14px 16px; background: var(--variant-dim); border-radius: 10px; }
+.tn-tension p { margin: 0; font-size: calc(14.5px * var(--en-scale)); line-height: 1.6; color: var(--text); }
+.tn-recon { padding: 14px 16px; background: var(--accent-dim); border-radius: 10px; }
+.tn-recon ol, .tn-sources ul { margin: 0; padding-left: 18px; }
+.tn-recon li { font-size: calc(14px * var(--en-scale)); line-height: 1.6; color: var(--text); margin-bottom: 10px; }
+.tn-recon li:last-child { margin-bottom: 0; }
+
+.tn-address { padding: 14px 16px; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 10px; }
+.tn-point { margin: 14px 0; }
+.tn-verdict { font-size: 13.5px; font-weight: 700; color: var(--text); display: flex; align-items: baseline; gap: 8px; margin-bottom: 5px; }
+.tn-verdict span { flex: none; width: 20px; height: 20px; border-radius: 50%; background: var(--accent-dim); color: var(--accent); font-size: 12px; display: inline-flex; align-items: center; justify-content: center; align-self: center; }
+.tn-point p { margin: 0; font-size: calc(14px * var(--en-scale)); line-height: 1.62; color: var(--text-secondary); }
+.tn-bottom { margin: 16px 0 0 !important; padding-top: 14px; border-top: 1px solid var(--border); font-size: calc(14px * var(--en-scale)); line-height: 1.62; color: var(--text) !important; font-style: italic; }
+.tn-sources { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 14px; }
+.tn-sources li { font-size: 11.5px; line-height: 1.55; color: var(--text-muted); margin-bottom: 6px; }

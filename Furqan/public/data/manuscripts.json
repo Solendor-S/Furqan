@@ -1,0 +1,81 @@
+[
+  {
+    "id": "sanaa-1",
+    "flagship": true,
+    "name": "Ṣanʿāʾ 1 (DAM 01-27.1)",
+    "summary": "The one extant Qur'an from a textual tradition beside the ʿUthmānic — its erased lower text differs from the standard.",
+    "meta": {
+      "Date": "Lower text: radiocarbon 95% within c. 578–669 CE — plausibly before the ʿUthmānic standardisation (~650 CE)",
+      "Script": "Ḥijāzī",
+      "Location": "Found 1972 in the Great Mosque of Ṣanʿāʾ, Yemen; House of Manuscripts, Ṣanʿāʾ",
+      "Contents": "Palimpsest — a standard (ʿUthmānic) upper text written over a scraped-off lower text of a different tradition"
+    },
+    "body": [
+      "Ṣanʿāʾ 1 is a palimpsest: a later, standard ʿUthmānic text was written over an earlier text that had been washed and scraped off. Ultraviolet and later imaging recovered the erased lower text (the scriptio inferior).",
+      "That lower text is the only known surviving witness to a non-ʿUthmānic textual tradition of the Qur'an. It differs from the standard text in word substitutions, omissions, additions, and word order, and its chapters (suras) run in a different sequence. By one scholarly estimate it carries roughly twenty-five times as many variants as the companion codices reported in the literature.",
+      "Radiocarbon dating places the parchment in the first Islamic century — plausibly before ʿUthmān's standardisation — which is why the manuscript is central to debates on how and when the Qur'anic text was fixed. Its variants resemble, but far exceed, those reported for the codices of Ibn Masʿūd and Ubayy b. Kaʿb.",
+      "For balance: the manuscript's own upper text is standard ʿUthmānic, and the lower text — though it varies — is recognisably the same Qur'an. The differences are at the level of wording and arrangement, not a different book. The specifics are catalogued in the Sadeghi & Goudarzi edition linked below."
+    ],
+    "variants": [
+      {
+        "ref": "Order of the suras",
+        "standard": "The fixed ʿUthmānic order of chapters",
+        "manuscript": "A different sura sequence that matches no known Qur'anic order",
+        "note": "The lower text orders its chapters differently from the standard muṣḥaf — and differently again from the order reported for Ibn Masʿūd's codex."
+      },
+      {
+        "ref": "Wording (many places)",
+        "standard": "The standard ʿUthmānic wording",
+        "manuscript": "Substitutions, omissions and additions of words",
+        "note": "Documented throughout the surviving folios; see the Sadeghi & Goudarzi critical edition for the verified, verse-by-verse apparatus."
+      }
+    ],
+    "links": [
+      { "label": "Sanaa manuscript — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sanaa_manuscript" },
+      { "label": "Sadeghi & Goudarzi, “Ṣanʿāʾ 1 and the Origins of the Qurʾān” (2012) — full critical edition (PDF)", "url": "https://bible-quran.com/wp-content/uploads/2013/01/Sadeghi-Goudarzi-sana-Origins-of-the-Quran.pdf" },
+      { "label": "Corpus Coranicum — Manuscripta Coranica (manuscript database)", "url": "https://corpuscoranicum.org/en/manuscripts" }
+    ]
+  },
+  {
+    "id": "birmingham",
+    "flagship": false,
+    "name": "Birmingham Qur'an (Mingana 1572a)",
+    "summary": "Two folios among the earliest Qur'an parchment known — and its text matches the standard Qur'an.",
+    "meta": {
+      "Date": "Parchment radiocarbon 95.4% within 568–645 CE",
+      "Script": "Ḥijāzī",
+      "Location": "Cadbury Research Library, University of Birmingham (Mingana Collection)",
+      "Contents": "Two parchment folios — parts of Sūras 18–20"
+    },
+    "body": [
+      "The Birmingham folios were radiocarbon-dated in 2015 to 568–645 CE, placing them among the very earliest Qur'anic parchment. They belong to the same original manuscript as folios held at the Bibliothèque nationale de France (part of Codex Parisino-petropolitanus).",
+      "Their significance is the mirror image of Ṣanʿāʾ: the Birmingham text is essentially identical to the standard Qur'an in use today, evidence that the ʿUthmānic consonantal text was already fixed at a very early date."
+    ],
+    "variants": [],
+    "links": [
+      { "label": "Birmingham Qur'an manuscript — Wikipedia", "url": "https://en.wikipedia.org/wiki/Birmingham_Quran_manuscript" },
+      { "label": "University of Birmingham — the Birmingham Qur'an", "url": "https://www.birmingham.ac.uk/research/quran-mingana/the-birmingham-quran-manuscript" }
+    ]
+  },
+  {
+    "id": "parisino-petropolitanus",
+    "flagship": false,
+    "name": "Codex Parisino-petropolitanus (BnF Arabe 328)",
+    "summary": "One of the oldest substantial Qur'ans — the standard text, already established, with only minor scribal variation.",
+    "meta": {
+      "Date": "Later 7th century CE",
+      "Script": "Ḥijāzī",
+      "Location": "Dispersed: Bibliothèque nationale de France (Arabe 328), St Petersburg, the Vatican and London",
+      "Contents": "About 98 surviving folios — roughly 45% of the Qur'an"
+    },
+    "body": [
+      "One of the oldest substantial Qur'an manuscripts, studied in detail by François Déroche. Written by several hands, it lacks the later vowel marks and most diacritical dots.",
+      "It preserves the ʿUthmānic text with only minor orthographic and rare consonantal variants — mostly spelling and scribal differences, not different readings. With Birmingham, it shows the standard text well-established within the first century."
+    ],
+    "variants": [],
+    "links": [
+      { "label": "Codex Parisino-petropolitanus — Wikipedia", "url": "https://en.wikipedia.org/wiki/Codex_Parisino-petropolitanus" },
+      { "label": "Early Quranic manuscripts — Wikipedia (overview)", "url": "https://en.wikipedia.org/wiki/Early_Quranic_manuscripts" }
+    ]
+  }
+]

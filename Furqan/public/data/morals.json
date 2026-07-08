@@ -1,0 +1,418 @@
+[
+ {
+  "id": "child-marriage",
+  "type": "marriage",
+  "pinned": true,
+  "title": "Marriage and consummation with a pre-pubescent girl",
+  "question": "Do the Qur'an and sahih hadith permit marriage — and sexual consummation — with a girl who has not reached puberty?",
+  "sections": [
+   {
+    "kind": "quran",
+    "heading": "Qur'an — a waiting period for girls who have not menstruated",
+    "note": "65:4 sets the ʿidda (waiting period after divorce). Alongside women past menopause it specifies a period for “those who have not menstruated” — read by the classical commentators as including girls too young to menstruate, which presupposes a valid marriage that can be contracted and dissolved. 33:49 shows a marriage can be entered and ended before consummation.",
+    "verses": [
+     {
+      "ref": "65:4",
+      "ar": "وَٱلَّٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرٖ وَٱلَّٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ أَمۡرِهِۦ يُسۡرٗا",
+      "en": "And for such of your women as despair of menstruation, if ye doubt, their period (of waiting) shall be three months, along with those who have it not. And for those with child, their period shall be till they bring forth their burden. And whosoever keepeth his duty to Allah, He maketh his course easy for him"
+     },
+     {
+      "ref": "33:49",
+      "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَيۡهِنَّ مِنۡ عِدَّةٖ تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحٗا جَمِيلٗا",
+      "en": "O ye who believe! If ye wed believing women and divorce them before ye have touched them, then there is no period that ye should reckon. But content them and release them handsomely"
+     }
+    ]
+   },
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — the Prophet's marriage to ʿĀʾishah",
+    "note": "Two sahih narrations, through the same family chain (Hishām ← ʿUrwa ← ʿĀʾishah), give ʿĀʾishah's age at the marriage contract (six) and at consummation (nine).",
+    "hadiths": [
+     {
+      "collection": "Sahih al-Bukhari",
+      "number": "5133",
+      "in_book": "Book 67, Hadith 69",
+      "grade": "Ṣaḥīḥ (al-Bukhārī)",
+      "narrator": "ʿĀʾishah",
+      "ar": "أَنَّ النَّبِيَّ ﷺ تَزَوَّجَهَا وَهْىَ بِنْتُ سِتِّ سِنِينَ، وَأُدْخِلَتْ عَلَيْهِ وَهْىَ بِنْتُ تِسْعٍ، وَمَكَثَتْ عِنْدَهُ تِسْعًا",
+      "en": "Narrated ʿĀʾishah: that the Prophet ﷺ married her when she was six years old and he consummated his marriage when she was nine years old, and then she remained with him for nine years (i.e., till his death).",
+      "url": "https://sunnah.com/bukhari:5133"
+     },
+     {
+      "collection": "Sunan an-Nasa'i",
+      "number": "3378",
+      "in_book": "Book 26, Hadith 183",
+      "grade": "Ṣaḥīḥ (Darussalam)",
+      "narrator": "ʿĀʾishah",
+      "ar": "تَزَوَّجَنِي رَسُولُ اللَّهِ ﷺ وَأَنَا بِنْتُ سِتٍّ وَدَخَلَ عَلَىَّ وَأَنَا بِنْتُ تِسْعِ سِنِينَ وَكُنْتُ أَلْعَبُ بِالْبَنَاتِ",
+      "en": "It was narrated that ʿĀʾishah said: “The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls.”",
+      "url": "https://sunnah.com/nasai:3378"
+     }
+    ]
+   }
+  ],
+  "tension": "Read together, these texts present marriage to — and sexual consummation with — a girl who has not reached puberty as permissible, and, in the Prophet's own example, as enacted. By modern standards, and under the minimum-marriage-age laws of most contemporary Muslim-majority states, this is child marriage.",
+  "reconciliations": [
+   "Historical context: fixed minimum-age laws are modern. In seventh-century Arabia — and across most pre-modern societies, including biblical and late-antique ones — marriage was tied to physical maturity and betrothal often preceded it. Judging the period by twenty-first-century norms is anachronistic.",
+   "The subject of 65:4 is the mechanics of the waiting period, not a command to marry minors; some modern scholars read “those who have not menstruated” as covering women who do not menstruate for other reasons (e.g. amenorrhoea), not specifically the pre-pubescent.",
+   "The marriage contract (reported at age six) and consummation (age nine) are distinguished in the reports; consummation was tied to bulūgh (physical readiness) as judged at the time, not to a calendar age. ʿĀʾishah's mention of still playing with dolls reflects the customs of the era.",
+   "Some modern writers question the age reports, arguing from other chronological data (the age gap with her sister Asmāʾ, the timing of the early converts) that ʿĀʾishah was older — in her mid-to-late teens — at consummation."
+  ],
+  "addressing": {
+   "note": "Weighing these against the texts as the tradition itself read them:",
+   "points": [
+    {
+     "verdict": "The historical-context defense does not survive the doctrine that the Prophet is a timeless example.",
+     "text": "Child marriage was indeed widespread in pre-modern societies and is not unique to Islam; pointing that out rightly resists anachronism. But the defense proves less than it appears. The Qur'an holds the Prophet up as “an excellent example (uswa ḥasana) … for whoever hopes in Allah and the Last Day” (33:21) — a model for all believers for all time, not only for his own century. An act that forms part of that normative example is therefore treated, in classical and much traditional jurisprudence, as remaining permissible in principle today; “it was normal then” explains the practice historically but does not confine it to the past. That is precisely why most Muslim-majority states had to raise the marriage age by statute rather than by declaring the precedent void."
+    },
+    {
+     "verdict": "The “not a command” reading answers the wrong question — permissibility, not obligation, is what is at issue.",
+     "text": "65:4 is about ʿidda, not an injunction to marry minors — but that rebuts a claim no one is making. What is in question is not whether the practice is commanded, only whether it is permitted. And the verse settles that on its own terms: by assigning a waiting period to a wife who has not menstruated, it legislates for exactly that marriage, which presupposes the marriage is valid and can be entered and dissolved. That is a permission, on the face of the text, whether or not one accepts any commentator's reading. The mainstream classical commentators (e.g. al-Ṭabarī, al-Qurṭubī — exact wording to verify) took it the same way, reading “those who have not menstruated” to include girls too young to menstruate. So the permissibility is drawn out by both the wording and the tradition, not manufactured here."
+    },
+    {
+     "verdict": "The older-age revision is a minority position on weaker evidence — and it cuts the branch it sits on.",
+     "text": "The age six / nine reports sit in the strongest collections (al-Bukhārī, Muslim, al-Nasāʾī) with sound chains through Hishām ← ʿUrwa ← ʿĀʾishah. The counter-arguments are circumstantial inferences from secondary chronology and have not displaced the sahih reports in mainstream scholarship. The revision also carries a cost that is rarely stated: these are among the most strongly attested reports in the entire canon — graded ṣaḥīḥ, narrated through multiple independent chains, and relied on for law elsewhere. To reject them specifically because their content is uncomfortable is to concede that even the highest-graded, multiply-attested hadith can be false. That does not quietly go away: it puts the reliability of the strongest collections — and the whole grading apparatus built to vouch for them — into question. The revisionist route escapes the moral objection only by spending the authority of Ṣaḥīḥ al-Bukhārī and its peers, which the tradition cannot easily afford."
+    }
+   ],
+   "bottom_line": "The texts, as the classical tradition read them, permit the practice — and because the Prophet is presented as a timeless example (33:21), the fact that it was common in the seventh century does not confine it to the seventh century: the precedent is treated as normative, which is why the permissibility persists in classical fiqh even where modern statutes now set a minimum age. The honest question the reader is left to weigh is whether a practice grounded in a source held to be for all time can be treated as merely a bygone custom."
+  },
+  "sources": [
+   "Qur'an 65:4, 33:49; 33:21 (the Prophet as uswa ḥasana, timeless example) — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Sahih al-Bukhari 5133 (Book 67, Hadith 69); Sunan an-Nasa'i 3378 (Book 26, Hadith 183) — sunnah.com.",
+   "Classical tafsīr of 65:4 (al-Ṭabarī, Jāmiʿ al-bayān; al-Qurṭubī, al-Jāmiʿ li-aḥkām al-Qurʾān) — exact wording to verify.",
+   "Minimum-marriage-age statutes in contemporary Muslim-majority states — for the modern-norm comparison."
+  ]
+ },
+ {
+  "id": "wife-beating",
+  "type": "women",
+  "title": "Striking a disobedient wife",
+  "question": "Does the Qur'an permit a husband to strike his wife — and did the Prophet strike his?",
+  "sections": [
+   {
+    "kind": "quran",
+    "heading": "Qur'an — admonish, then separate, then strike",
+    "note": "4:34 places men in charge of women and lists a three-step response to a wife whose nushūz (rebellion / ill-conduct) is feared: admonish her, forsake her in bed, then strike her (wa-ḍribūhunna).",
+    "verses": [
+     {
+      "ref": "4:34",
+      "ar": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعۡضَهُمۡ عَلَىٰ بَعۡضٖ وَبِمَآ أَنفَقُواْ مِنۡ أَمۡوَٰلِهِمۡۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٞ لِّلۡغَيۡبِ بِمَا حَفِظَ ٱللَّهُۚ وَٱلَّٰتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهۡجُرُوهُنَّ فِي ٱلۡمَضَاجِعِ وَٱضۡرِبُوهُنَّۖ فَإِنۡ أَطَعۡنَكُمۡ فَلَا تَبۡغُواْ عَلَيۡهِنَّ سَبِيلًاۗ إِنَّ ٱللَّهَ كَانَ عَلِيّٗا كَبِيرٗا",
+      "en": "Men are in charge of women, because Allah hath made the one of them to excel the other, and because they spend of their property (for the support of women). So good women are the obedient, guarding in secret that which Allah hath guarded. As for those from whom ye fear rebellion, admonish them and banish them to beds apart, and scourge them. Then if they obey you, seek not a way against them. Lo! Allah is ever High, Exalted, Great"
+     }
+    ]
+   },
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — the Prophet strikes ʿĀʾishah",
+    "note": "Suspecting the Prophet had slipped out to another wife, ʿĀʾishah secretly followed him one night; he had in fact gone to pray at the Baqīʿ cemetery. On discovering she had trailed him, he struck her in the chest.",
+    "hadiths": [
+     {
+      "collection": "Sunan an-Nasa'i",
+      "number": "3964",
+      "in_book": "Book 36, Hadith 26",
+      "grade": "Ṣaḥīḥ (Darussalam)",
+      "narrator": "ʿĀʾishah",
+      "ar": "فَلَهَدَنِي فِي صَدْرِي لَهْدَةً أَوْجَعَتْنِي",
+      "en": "ʿĀʾishah said: “He gave me a shove (lahda) in the chest that caused me pain, and said: ‘Did you think that Allah and His Messenger would deal unjustly with you?’”",
+      "url": "https://sunnah.com/nasai:3964"
+     }
+    ]
+   }
+  ],
+  "tension": "4:34 lists striking (ḍarb) as the third step against a wife whose nushūz is feared, after admonition and separation in bed; the sahih record shows the Prophet himself striking ʿĀʾishah in the chest. Read plainly, scripture and sunna permit a husband to hit his wife.",
+  "reconciliations": [
+   "The tradition restricts the strike to a light, non-injurious, symbolic tap (ghayr mubarriḥ) — not to the face, leaving no mark, often described as with a tooth-stick — and treats it as a discouraged last resort; several reports say the Prophet never struck a woman or servant and disliked men who beat their wives.",
+   "Some modern scholars render ḍaraba here as “separate from” or “leave”, appealing to the verb's wide range, so that no blow is intended.",
+   "The nushūz addressed is serious misconduct, and the graded sequence (words, then bed, then a restrained strike) is a de-escalation within a seventh-century setting where corporal discipline was routine."
+  ],
+  "addressing": {
+   "note": "Weighing these against the text and the reports:",
+   "points": [
+    {
+     "verdict": "The mitigations narrow the permission; they do not remove it.",
+     "text": "Classical scholarship does read ḍarb as a light, non-injurious blow and hedges it heavily, and the Prophet is reported to have disliked striking wives. But that concedes the core point: a blow is permitted, only limited. “Light” and “symbolic” are the tradition's restrictions on a licence the verse grants — not evidence that no licence is granted."
+    },
+    {
+     "verdict": "The “strike means separate” reading is a minority move against the mainstream.",
+     "text": "ḍaraba can carry many senses by context, but every major classical commentary and the ḥadīth literature on 4:34 took it here as “strike”, and jurists derived rules about how it may be done. The “separate” rendering is modern and has to explain why the verse would prescribe leaving the bed as step two and then merely repeat it as step three."
+    },
+    {
+     "verdict": "The Prophet's example is cited on both sides — and it is load-bearing.",
+     "text": "Reports that he never hit a wife are set against 3964, where he strikes ʿĀʾishah. Even on the gentlest reading, striking a wife fell within the bounds of his practice, and under the doctrine of his timeless example (33:21) that is not sealed off in the seventh century."
+    }
+   ],
+   "bottom_line": "The verse permits a restricted strike and the sunna contains an instance of one; the honest debate is over how light and how last-resort — not whether it is permitted at all. Whether a scripture meant for all time should licence any striking of a wife is what the reader weighs."
+  },
+  "sources": [
+   "Qur'an 4:34 — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Sunan an-Nasa'i 3964 (Book 36, Hadith 26) — sunnah.com.",
+   "Classical tafsīr of 4:34 (al-Ṭabarī; al-Rāzī) and the “ghayr mubarriḥ” hadith (e.g. Abū Dāwūd, Ibn Mājah) — exact wording to verify."
+  ]
+ },
+ {
+  "id": "slavery",
+  "type": "slavery",
+  "title": "Slavery and the slave trade",
+  "question": "Does Islam permit owning, buying and selling human beings?",
+  "sections": [
+   {
+    "kind": "quran",
+    "heading": "Qur'an — slaves as a lawful, owned category",
+    "note": "The Qur'an never abolishes slavery. It regulates it and repeatedly treats “those your right hands possess” as property to be dealt with — here, listed among the dependants a believer must treat kindly — while elsewhere making manumission a major act of piety (e.g. 90:13, 24:33).",
+    "verses": [
+     {
+      "ref": "4:36",
+      "ar": "وَٱعۡبُدُواْ ٱللَّهَ وَلَا تُشۡرِكُواْ بِهِۦ شَيۡـٔٗاۖ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنٗا وَبِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱلۡجَارِ ذِي ٱلۡقُرۡبَىٰ وَٱلۡجَارِ ٱلۡجُنُبِ وَٱلصَّاحِبِ بِٱلۡجَنۢبِ وَٱبۡنِ ٱلسَّبِيلِ وَمَا مَلَكَتۡ أَيۡمَٰنُكُمۡۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخۡتَالٗا فَخُورًا",
+      "en": "And serve Allah. Ascribe no thing as partner unto Him. (Show) kindness unto parents, and unto near kindred, and orphans, and the needy, and unto the neighbour who is of kin (unto you) and the neighbour who is not of kin, and the fellow-traveller and the wayfarer and (the slaves) whom your right hands possess. Lo! Allah loveth not such as are proud and boastful"
+     }
+    ]
+   },
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — the Prophet buys and sells slaves",
+    "note": "A runaway slave pledged allegiance without the Prophet realising he was owned; when the master came, the Prophet bought him — paying two (black) slaves for the one.",
+    "hadiths": [
+     {
+      "collection": "Sunan an-Nasa'i",
+      "number": "4184",
+      "in_book": "Book 39, Hadith 36",
+      "grade": "Ṣaḥīḥ (Darussalam)",
+      "narrator": "Jābir b. ʿAbdillāh",
+      "ar": "جَاءَ عَبْدٌ فَبَايَعَ النَّبِيَّ ﷺ عَلَى الْهِجْرَةِ وَلاَ يَشْعُرُ النَّبِيُّ ﷺ أَنَّهُ عَبْدٌ فَجَاءَ سَيِّدُهُ يُرِيدُهُ فَقَالَ النَّبِيُّ ﷺ بِعْنِيهِ فَاشْتَرَاهُ بِعَبْدَيْنِ أَسْوَدَيْنِ ثُمَّ لَمْ يُبَايِعْ أَحَدًا حَتَّى يَسْأَلَهُ أَعَبْدٌ هُوَ",
+      "en": "Jābir said: “A slave came and pledged to the Prophet ﷺ to emigrate, and the Prophet did not realise that he was a slave. Then his master came looking for him. The Prophet ﷺ said: ‘Sell him to me,’ and he bought him for two black slaves. Then he did not accept the pledge from anyone until he asked: ‘Is he a slave?’”",
+      "url": "https://sunnah.com/nasai:4184"
+     }
+    ]
+   }
+  ],
+  "tension": "Slavery is taken for granted as lawful throughout the Qur'an and sunna: people are owned, bought and sold. In 4184 the Prophet himself buys a slave, paying two black slaves (ʿabdayn aswadayn) for one — a transaction that prices human beings by the head and, in its wording, by colour.",
+  "reconciliations": [
+   "Islam did not invent slavery; it inherited a universal institution and, its defenders argue, sharply reformed it — commanding kind treatment, making freeing a slave a major virtue and an expiation for sins, granting slaves rights, and encouraging freedom-contracts (mukātaba, 24:33).",
+   "“Two black slaves” reports a market exchange rate, not a doctrine ranking races; ʿabd aswad was an ordinary descriptor of the time, and Islam condemns pride of lineage and honoured Black companions such as Bilāl.",
+   "Gradual-abolition reading: the heavy incentives to free point the institution toward its own end, later realised."
+  ],
+  "addressing": {
+   "note": "Weighing these against the texts:",
+   "points": [
+    {
+     "verdict": "Regulation and encouraging manumission operate inside a permission, not against it.",
+     "text": "The reforms and the merit of freeing slaves are real, and better than the surrounding world. But manumission is only meritorious because ownership is lawful; the texts regulate and soften slavery without ever prohibiting it, and classical law treated it as permanently permissible. “Reformed” is not “forbidden.”"
+    },
+    {
+     "verdict": "The gradual-abolition reading is later and optional.",
+     "text": "Nothing in the texts sets slavery a deadline; abolition in Muslim lands came largely by modern, often external, pressure and statute — over the objection of scholars who held the institution licit precisely because scripture did. If the sources aimed at abolition, they left it unstated for thirteen centuries."
+    },
+    {
+     "verdict": "The colour wording is uncomfortable and not fully explained away.",
+     "text": "Even as a market rate, “two black slaves for one” prices people and does so with a racial descriptor. Islam's genuine condemnations of arrogance and its honouring of Black figures soften the charge of doctrinal racism, but they do not erase that enslavement fell heavily, and describably, along such lines."
+    }
+   ],
+   "bottom_line": "The texts permit owning, buying and selling humans and regulate rather than abolish it; the strongest defense is that they reformed a universal institution, not that they forbade it. Whether a message for all time should leave slavery permanently lawful is what the reader weighs."
+  },
+  "sources": [
+   "Qur'an 4:36; 24:33, 90:13 (manumission) — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Sunan an-Nasa'i 4184 (Book 39, Hadith 36) — sunnah.com.",
+   "Classical fiqh of riqq (slavery) across the schools — for the permanent-permissibility claim; to verify."
+  ]
+ },
+ {
+  "id": "concubinage",
+  "type": "slavery",
+  "title": "Sexual relations with female slaves",
+  "question": "Does Islam permit a man to have sex with women he owns, outside marriage and without their consent?",
+  "sections": [
+   {
+    "kind": "quran",
+    "heading": "Qur'an — lawful are wives “or those your right hands possess”",
+    "note": "Several verses list, as women a man may lawfully have relations with, both his wives and “what his right hand possesses” — female captives / slaves — without marriage, and without the woman's consent being made a condition (also 70:29–30; for the Prophet, 33:50).",
+    "verses": [
+     {
+      "ref": "4:24",
+      "ar": "وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةٗۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
+      "en": "And all married women (are forbidden unto you) save those (captives) whom your right hands possess. It is a decree of Allah for you. Lawful unto you are all beyond those mentioned, so that ye seek them with your wealth in honest wedlock, not debauchery. And those of whom ye seek content (by marrying them), give unto them their portions as a duty. And there is no sin for you in what ye do by mutual agreement after the duty (hath been done). Lo! Allah is ever Knower, Wise"
+     },
+     {
+      "ref": "23:5",
+      "ar": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "en": "And who guard their modesty"
+     },
+     {
+      "ref": "23:6",
+      "ar": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "en": "Save from their wives or the (slaves) that their right hands possess, for then they are not blameworthy"
+     }
+    ]
+   },
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — the Prophet's own slave-woman",
+    "note": "Anas reports the Prophet had a slave-woman with whom he had relations; pressed by two of his wives, he declared her forbidden to himself, and Qur'an 66:1 (“O Prophet, why do you forbid what Allah has made lawful to you…”) was revealed.",
+    "hadiths": [
+     {
+      "collection": "Sunan an-Nasa'i",
+      "number": "3959",
+      "in_book": "Book 36, Hadith 21",
+      "grade": "Ṣaḥīḥ (Darussalam)",
+      "narrator": "Anas b. Mālik",
+      "ar": "أَنَّ رَسُولَ اللَّهِ ﷺ كَانَتْ لَهُ أَمَةٌ يَطَؤُهَا فَلَمْ تَزَلْ بِهِ عَائِشَةُ وَحَفْصَةُ حَتَّى حَرَّمَهَا عَلَى نَفْسِهِ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ { يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ } إِلَى آخِرِ الآيَةِ",
+      "en": "It was narrated from Anas that the Messenger of Allah ﷺ had a female slave with whom he had intercourse, but ʿĀʾishah and Ḥafṣah would not leave him alone until he declared her forbidden to himself. Then Allah revealed: “O Prophet! Why do you forbid that which Allah has made lawful to you…” (66:1).",
+      "url": "https://sunnah.com/nasai:3959"
+     }
+    ]
+   }
+  ],
+  "tension": "The Qur'an lists “those your right hands possess” alongside wives as women a man may lawfully have sex with (4:24, 23:5–6, 70:29–30), and the sunna includes the Prophet's own relations with a slave-woman. Marriage is not required, and the enslaved woman's consent is nowhere set as a condition — which by any modern definition is sexual slavery.",
+  "reconciliations": [
+   "Concubinage was universal in the ancient world; Islam regulated it — a man could have relations only with his own slave; a slave who bore her master a child (umm walad) could not be sold and was freed at his death; and her child was free and legitimate.",
+   "It is argued that mistreatment was forbidden and that most such women entered households through a war-captivity ordinary to the era.",
+   "Reformist view: as with slavery generally, the institution was being wound down, and once slavery is abolished the permission is moot."
+  ],
+  "addressing": {
+   "note": "Weighing these against the texts:",
+   "points": [
+    {
+     "verdict": "Regulation narrows the permission — but consent is the missing term.",
+     "text": "The umm-walad rules and the ban on forcing slaves into prostitution are genuine mitigations. But the texts permit sex with an owned woman as such; nowhere is her consent required, and the umm-walad protections presuppose that relations have already taken place. Regulated non-consensual access is still what is permitted."
+    },
+    {
+     "verdict": "“Moot after abolition” does not touch the text.",
+     "text": "Slavery's abolition was human legislation, not a scriptural repeal; the verses remain in the text as a standing permission — which is why the question is raised at all, and why extremist groups have invoked exactly these verses in living memory."
+    },
+    {
+     "verdict": "The Prophet's example is again load-bearing.",
+     "text": "3959 shows the practice in the Prophet's own household; under the doctrine of his timeless example (33:21) that is a normative precedent, not merely a seventh-century circumstance."
+    }
+   ],
+   "bottom_line": "The texts permit sexual access to owned women without marriage or any stated consent, and the sunna instances it; the defenses regulate and contextualise it but do not remove the permission. Whether a timeless scripture should contain it at all is the reader's to weigh."
+  },
+  "sources": [
+   "Qur'an 4:24, 23:5–6, 70:29–30, 33:50 — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Sunan an-Nasa'i 3959 (Book 36, Hadith 21) — sunnah.com.",
+   "Fiqh of milk al-yamīn / umm walad — for the regulatory rules; to verify."
+  ]
+ },
+ {
+  "id": "deficiency-of-women",
+  "type": "women",
+  "title": "The “deficiency” of women",
+  "question": "Do the Qur'an and sahih hadith teach that women are intellectually and religiously deficient?",
+  "sections": [
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — “the deficiency of a woman's mind”",
+    "note": "The Prophet grounds a woman's half-weight testimony in a “deficiency of her mind”; a fuller narration (al-Bukhārī 304) adds a “deficiency in religion” — not praying or fasting while menstruating.",
+    "hadiths": [
+     {
+      "collection": "Sahih al-Bukhari",
+      "number": "2658",
+      "in_book": "Book 52, Hadith 22",
+      "grade": "Ṣaḥīḥ (al-Bukhārī)",
+      "narrator": "Abū Saʿīd al-Khudrī",
+      "ar": "أَلَيْسَ شَهَادَةُ الْمَرْأَةِ مِثْلَ نِصْفِ شَهَادَةِ الرَّجُلِ قُلْنَا بَلَى. قَالَ فَذَلِكَ مِنْ نُقْصَانِ عَقْلِهَا",
+      "en": "Narrated Abū Saʿīd al-Khudrī: The Prophet ﷺ said, “Is not the witness of a woman equal to half of that of a man?” The women said, “Yes.” He said, “This is because of the deficiency of a woman's mind.”",
+      "url": "https://sunnah.com/bukhari:2658"
+     }
+    ]
+   },
+   {
+    "kind": "quran",
+    "heading": "Qur'an — two women in place of one man as witness",
+    "note": "The half-weight testimony is Qur'anic: in the debt verse, one man may be replaced by two women, “so that if one errs the other may remind her.”",
+    "verses": [
+     {
+      "ref": "2:282",
+      "ar": "وَٱسۡتَشۡهِدُواْ شَهِيدَيۡنِ مِن رِّجَالِكُمۡۖ فَإِن لَّمۡ يَكُونَا رَجُلَيۡنِ فَرَجُلٞ وَٱمۡرَأَتَانِ مِمَّن تَرۡضَوۡنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ",
+      "en": "…And call to witness two witnesses from among your men; and if two men be not (at hand), then a man and two women, of such as ye approve as witnesses, so that if the one erreth (through forgetfulness) the other will remind her… (excerpt of 2:282)"
+     }
+    ]
+   }
+  ],
+  "tension": "In 2658 the Prophet explains that a woman's legal testimony counts as half a man's because of “a deficiency in her mind” (nuqṣān ʿaql); the underlying rule is Qur'anic (2:282). A fuller narration adds a “deficiency in religion.” Read plainly, scripture and sahih sunna rank women as intellectually and religiously below men.",
+  "reconciliations": [
+   "Apologetic reading: the half-testimony of 2:282 is context-specific — commercial debt, an area women of the time engaged with less — and is a safeguard against error by mutual reminding, not a claim of lesser intellect; a woman's sole testimony is accepted elsewhere, including in ḥadīth transmission and matters she knows best.",
+   "The “deficiency in religion” refers only to the exemption from prayer and fasting during menstruation — a concession, not a fault — and “deficiency of mind” is read as affectionate or rhetorical, tied to that one legal ruling.",
+   "Islam affirms women's spiritual equality (e.g. 33:35, 4:124) and produced revered female scholars."
+  ],
+  "addressing": {
+   "note": "Weighing these against the texts:",
+   "points": [
+    {
+     "verdict": "The witness rule is in the text; the Prophet's stated reason is what stings.",
+     "text": "That two women equal one man in this testimony is Qur'anic (2:282). The “safeguard, not a slight” reading is plausible for the rule in isolation — but 2658 supplies the Prophet's own rationale, and it is not “unfamiliarity with commerce”; it is “the deficiency of her mind.” The hadith closes off the softer reading of the reason."
+    },
+    {
+     "verdict": "Spiritual equality coexists with, but does not cancel, the ranking in law.",
+     "text": "33:35 and 4:124 promise equal reward in the Hereafter; they do not address legal or intellectual standing in this world, where 4:34 (“men are qawwāmūn over women”) and 2:282 place women a step below. Equality of soul is compatible with subordination in law — which is what these texts set out."
+    }
+   ],
+   "bottom_line": "The half-testimony is Qur'anic and the sahih rationale is an explicit “deficiency of mind”; the defenses reinterpret the rule but run against the Prophet's stated reason. Whether that reflects a timeless truth or the assumptions of its age is the reader's to weigh."
+  },
+  "sources": [
+   "Sahih al-Bukhari 2658 (Book 52, Hadith 22); fuller version al-Bukhārī 304 — sunnah.com.",
+   "Qur'an 2:282 (two-women witness); 33:35, 4:124 (equal reward) — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Tafsīr of 2:282 — exact wording to verify."
+  ]
+ },
+ {
+  "id": "apostasy",
+  "type": "punishment",
+  "title": "The death penalty for apostasy",
+  "question": "Is a Muslim who leaves Islam to be killed?",
+  "sections": [
+   {
+    "kind": "hadith",
+    "heading": "Sahih hadith — “whoever changes his religion, kill him”",
+    "note": "Reported by Ibn ʿAbbās; the ruling is echoed across the canonical collections and was adopted, with a call to repent, by all four Sunni schools.",
+    "hadiths": [
+     {
+      "collection": "Sahih al-Bukhari",
+      "number": "6922",
+      "in_book": "Book 88, Hadith 5",
+      "grade": "Ṣaḥīḥ (al-Bukhārī)",
+      "narrator": "Ibn ʿAbbās",
+      "ar": "أُتِيَ عَلِيٌّ ـ رضى الله عنه ـ بِزَنَادِقَةٍ فَأَحْرَقَهُمْ فَبَلَغَ ذَلِكَ ابْنَ عَبَّاسٍ فَقَالَ لَوْ كُنْتُ أَنَا لَمْ أُحْرِقْهُمْ لِنَهْىِ رَسُولِ اللَّهِ ﷺ وَلَقَتَلْتُهُمْ لِقَوْلِ رَسُولِ اللَّهِ ﷺ مَنْ بَدَّلَ دِينَهُ فَاقْتُلُوهُ",
+      "en": "Narrated ʿIkrima: Some apostates (zanādiqa) were brought to ʿAlī and he burnt them. When Ibn ʿAbbās heard, he said: “Had it been me I would not have burnt them, for the Messenger of Allah ﷺ said, ‘Do not punish with Allah's punishment (fire).’ I would have killed them, for the Messenger of Allah ﷺ said, ‘Whoever changes his religion, kill him.’”",
+      "url": "https://sunnah.com/bukhari:6922"
+     }
+    ]
+   },
+   {
+    "kind": "quran",
+    "heading": "Qur'an — “no compulsion in religion”, and no earthly penalty",
+    "note": "The Qur'an sets no worldly punishment for apostasy — it defers the matter to the Hereafter (2:217; 4:137) — and states plainly that there is no compulsion in religion.",
+    "verses": [
+     {
+      "ref": "2:256",
+      "ar": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "en": "There is no compulsion in religion. The right direction is henceforth distinct from error. And he who rejecteth false deities and believeth in Allah hath grasped a firm handhold which will never break. Allah is Hearer, Knower"
+     }
+    ]
+   }
+  ],
+  "tension": "Sahih hadith and the consensus of the classical schools prescribe death for a Muslim who leaves Islam. Yet the Qur'an fixes no worldly penalty for apostasy and declares “no compulsion in religion” (2:256). Killing a person for changing belief is, by modern standards, a grave violation of freedom of conscience.",
+  "reconciliations": [
+   "Traditional view: the penalty targeted apostasy joined to treason or sedition against the community (as in the Ridda wars), not private belief; jurists required a repentance period first, and some reports tie it to public rebellion.",
+   "Some modern scholars hold there is no fixed ḥadd for apostasy at all, citing 2:256 and the absence of any Qur'anic penalty, and read the hadith as bound to wartime treason.",
+   "2:256 is said to concern not forcing people into Islam — a separate matter from leaving it."
+  ],
+  "addressing": {
+   "note": "Weighing these against the texts:",
+   "points": [
+    {
+     "verdict": "The hadith's wording is unconditional; the “treason only” limit is read in.",
+     "text": "“Man baddala dīnahu faqtulūhu” — “whoever changes his religion, kill him” — states no exception for peaceful apostasy, and all four Sunni schools historically made simple apostasy a capital crime (after a call to repent). The treason-only reading is a genuine but minority and largely modern qualification of a text that does not qualify itself."
+    },
+    {
+     "verdict": "The Qur'an's silence cuts against the penalty — and exposes an internal tension.",
+     "text": "That the Qur'an fixes no earthly punishment and says “no compulsion” is a real tension with the hadith. It supports the reformers; but the mainstream resolved it the other way — letting the sunna supply a penalty the Qur'an omits — which is exactly the move under scrutiny, and it leaves 2:256 sitting awkwardly beside a death sentence for the act it seems to protect."
+    }
+   ],
+   "bottom_line": "The dominant tradition, on sahih hadith and consensus, punished leaving Islam with death; the Qur'an neither commands nor excludes it and elsewhere disavows compulsion. Whether killing for a change of belief can belong to a message meant for all time is the reader's to weigh."
+  },
+  "sources": [
+   "Sahih al-Bukhari 6922 (Book 88, Hadith 5) — sunnah.com.",
+   "Qur'an 2:256 (no compulsion); 2:217, 4:137 (apostasy, no worldly penalty stated) — King Fahd Complex (Ḥafṣ); English Pickthall (public domain).",
+   "Classical fiqh of ridda across the four schools; modern reformist positions — to verify."
+  ]
+ }
+]

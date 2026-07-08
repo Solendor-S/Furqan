@@ -1,0 +1,22 @@
+.ms-list { display: flex; flex-direction: column; gap: 24px; }
+.ms-picker { display: flex; flex-direction: column; gap: 12px; }
+
+.ms-meta { width: 100%; border-collapse: collapse; margin: 4px 0 16px; }
+.ms-meta th, .ms-meta td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--border); font-size: 13.5px; line-height: 1.5; }
+.ms-meta th { width: 34%; color: var(--accent); font-weight: 700; white-space: nowrap; }
+.ms-meta td { color: var(--text); }
+
+.ms-para { font-size: calc(14.5px * var(--en-scale)); line-height: 1.65; color: var(--text); margin: 0 0 12px; }
+
+.ms-variant { margin: 12px 0; padding: 12px 14px; background: var(--bg-secondary); border-radius: 10px; }
+.ms-variant-ref { font-weight: 700; font-size: 13.5px; color: var(--text); margin-bottom: 8px; }
+.ms-variant-row { font-size: 13.5px; line-height: 1.55; color: var(--text-secondary); margin: 4px 0; }
+.ms-vtag { display: inline-block; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; padding: 2px 8px; border-radius: 20px; margin-right: 6px; }
+.ms-vtag.std { background: var(--accent-dim); color: var(--accent); }
+.ms-vtag.ms { background: var(--scripture-dim); color: var(--scripture); }
+.ms-variant-note { font-size: 12.5px; color: var(--text-muted); margin-top: 8px; line-height: 1.55; }
+
+.ms-links ul { margin: 0; padding-left: 4px; list-style: none; }
+.ms-links li { margin-bottom: 12px; }
+.ms-links a { color: var(--scripture); text-decoration: none; font-size: 14px; line-height: 1.5; font-weight: 600; }
+.ms-links a:hover { text-decoration: underline; }

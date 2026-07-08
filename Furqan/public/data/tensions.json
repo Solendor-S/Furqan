@@ -1,0 +1,480 @@
+[
+  {
+    "id": "islamic-dilemma",
+    "type": "quran-bible",
+    "pinned": true,
+    "title": "The Islamic Dilemma",
+    "question": "Can the Torah and Gospel be both divinely valid — as the Qur'an affirms — and wrong wherever they contradict the Qur'an?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "Qur'an — affirms the earlier scriptures as valid guidance",
+        "note": "The Qur'an tells the People of the Scripture to uphold and judge by the Torah and the Gospel — in the Prophet's own time — and even tells the Prophet to consult them.",
+        "verses": [
+          {
+            "ref": "5:68",
+            "ar": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+            "en": "Say O People of the Scripture! Ye have naught (of guidance) till ye observe the Torah and the Gospel and that which was revealed unto you from your Lord. That which is revealed unto thee (Muhammad) from thy Lord is certain to increase the contumacy and disbelief of many of them. But grieve not for the disbelieving folk"
+          },
+          {
+            "ref": "5:47",
+            "ar": "وَلۡيَحۡكُمۡ أَهۡلُ ٱلۡإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
+            "en": "Let the People of the Gospel judge by that which Allah hath revealed therein. Whoso judgeth not by that which Allah hath revealed: such are evil-livers"
+          },
+          {
+            "ref": "10:94",
+            "ar": "فَإِن كُنتَ فِي شَكّٖ مِّمَّآ أَنزَلۡنَآ إِلَيۡكَ فَسۡـَٔلِ ٱلَّذِينَ يَقۡرَءُونَ ٱلۡكِتَٰبَ مِن قَبۡلِكَۚ لَقَدۡ جَآءَكَ ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
+            "en": "And if thou (Muhammad) art in doubt concerning that which We reveal unto thee, then question those who read the Scripture (that was) before thee. Verily the Truth from thy Lord hath come unto thee. So be not thou of the waverers"
+          }
+        ]
+      },
+      {
+        "kind": "scripture",
+        "heading": "Gospel — Jesus was crucified and died",
+        "note": "The Gospels the Qur'an refers to record Jesus's crucifixion, death and resurrection.",
+        "passages": [
+          {
+            "work": "Gospel of John",
+            "ref": "John 19:18",
+            "text": "where they crucified him, and with him two others, on either side one, and Jesus in the middle."
+          },
+          {
+            "work": "Gospel of Mark",
+            "ref": "Mark 15:24–25",
+            "text": "Crucifying him, they parted his garments among them, casting lots on them, what each should take. It was the third hour, and they crucified him."
+          },
+          {
+            "work": "1 Corinthians",
+            "ref": "1 Cor 15:3–4",
+            "text": "Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures."
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "Qur'an — denies the crucifixion",
+        "note": "",
+        "verses": [
+          {
+            "ref": "4:157",
+            "ar": "وَقَوۡلِهِمۡ إِنَّا قَتَلۡنَا ٱلۡمَسِيحَ عِيسَى ٱبۡنَ مَرۡيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمۡۚ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِ لَفِي شَكّٖ مِّنۡهُۚ مَا لَهُم بِهِۦ مِنۡ عِلۡمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّۚ وَمَا قَتَلُوهُ يَقِينَۢا",
+            "en": "And because of their saying: We slew the Messiah, Jesus son of Mary, Allah's messenger - they slew him not nor crucified him, but it appeared so unto them; and lo! those who disagree concerning it are in doubt thereof; they have no knowledge thereof save pursuit of a conjecture; they slew him not for certain"
+          }
+        ]
+      },
+      {
+        "kind": "scripture",
+        "heading": "New Testament — Jesus is divine and the Son of God",
+        "note": "The same scriptures affirm Jesus's divinity and sonship.",
+        "passages": [
+          {
+            "work": "Gospel of John",
+            "ref": "John 1:1",
+            "text": "In the beginning was the Word, and the Word was with God, and the Word was God."
+          },
+          {
+            "work": "Gospel of John",
+            "ref": "John 20:28",
+            "text": "Thomas answered him, “My Lord and my God!”"
+          },
+          {
+            "work": "Gospel of John",
+            "ref": "John 10:30",
+            "text": "I and the Father are one."
+          },
+          {
+            "work": "Gospel of Matthew",
+            "ref": "Matt 28:19",
+            "text": "Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "Qur'an — denies Jesus's divinity and that God has a son",
+        "note": "",
+        "verses": [
+          {
+            "ref": "5:116",
+            "ar": "وَإِذۡ قَالَ ٱللَّهُ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ ءَأَنتَ قُلۡتَ لِلنَّاسِ ٱتَّخِذُونِي وَأُمِّيَ إِلَٰهَيۡنِ مِن دُونِ ٱللَّهِۖ قَالَ سُبۡحَٰنَكَ مَا يَكُونُ لِيٓ أَنۡ أَقُولَ مَا لَيۡسَ لِي بِحَقٍّۚ إِن كُنتُ قُلۡتُهُۥ فَقَدۡ عَلِمۡتَهُۥۚ تَعۡلَمُ مَا فِي نَفۡسِي وَلَآ أَعۡلَمُ مَا فِي نَفۡسِكَۚ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
+            "en": "And when Allah saith: O Jesus, son of Mary! Didst thou say unto mankind: Take me and my mother for two gods beside Allah? he saith: Be glorified! It was not mine to utter that to which I had no right. If I used to say it, then Thou knewest it. Thou knowest what is in my mind, and I know not what is in Thy Mind. Lo! Thou, only Thou, art the Knower of Things Hidden"
+          },
+          {
+            "ref": "112:1–4",
+            "ar": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+            "en": "Say: He is Allah, the One Allah, the eternally Besought of all He begetteth not nor was begotten And there is none comparable unto Him"
+          },
+          {
+            "ref": "9:30",
+            "ar": "وَقَالَتِ ٱلۡيَهُودُ عُزَيۡرٌ ٱبۡنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلۡمَسِيحُ ٱبۡنُ ٱللَّهِۖ ذَٰلِكَ قَوۡلُهُم بِأَفۡوَٰهِهِمۡۖ يُضَٰهِـُٔونَ قَوۡلَ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
+            "en": "And the Jews say: Ezra is the son of Allah, and the Christians say: The Messiah is the son of Allah. That is their saying with their mouths. They imitate the saying of those who disbelieved of old. Allah (Himself) fighteth against them. How perverse are they"
+          }
+        ]
+      }
+    ],
+    "tension": "The Qur'an affirms the Torah and Gospel as revealed guidance and tells their followers — and even the Prophet — to uphold, judge by, and consult them (5:47, 5:68, 10:94). Yet those same scriptures teach exactly what the Qur'an denies: that Jesus was crucified and died (John 19:18; 1 Cor 15:3–4) and that he is divine and the Son of God (John 1:1; 20:28). If the earlier scriptures are reliable, they contradict the Qur'an; if they are not reliable, the Qur'an endorsed and staked its own confirmation on unreliable books.",
+    "reconciliations": [
+      "The earlier scriptures were corrupted (taḥrīf). The Qur'an's praise applies to the original revelation given to Moses and Jesus, not the altered texts in circulation.",
+      "Scholars distinguish taḥrīf al-maʿnā (distorting the meaning) from taḥrīf al-naṣṣ (altering the wording). The Qur'an accuses some of “changing words” and “concealing” (2:75, 5:13), taken as evidence of tampering.",
+      "The affirmation verses address those People of the Scripture who sincerely kept what was sound in their books, or are a rhetorical challenge — not a blanket endorsement of today's Bible."
+    ],
+    "addressing": {
+      "note": "Does the corruption defence follow from the Qur'an's own wording — or is it required to rescue it from the affirmation verses?",
+      "points": [
+        {
+          "verdict": "The affirmation verses speak in the present tense — a corrupt text cannot be “upheld”",
+          "text": "5:68 tells the People of the Scripture they “have nothing” until they “observe the Torah and the Gospel”; 5:47 commands “the People of the Gospel” to “judge by what Allah revealed therein”; 10:94 tells the Prophet himself, if in doubt, to “ask those who read the Scripture before you.” These are instructions to rely on the books that existed in the 7th century. One cannot be told to uphold, judge by, and consult a text that is corrupt and unreliable — so the plain sense treats the contemporaneous Torah and Gospel as sound."
+        },
+        {
+          "verdict": "taḥrīf al-maʿnā is textually grounded; taḥrīf al-naṣṣ is not",
+          "text": "The Qur'an's actual accusations (2:75; 5:13; 3:78) are of people “changing words,” “concealing,” and twisting with their tongues — distorting meaning, hiding, or misreading. That is taḥrīf al-maʿnā, and it is genuinely in the text; this much is a fair reading. But wholesale corruption of the written text (taḥrīf al-naṣṣ) is a stronger claim the Qur'an never plainly makes — and it is exactly what escaping the dilemma requires, since meaning-distortion by some readers does not turn the Gospel's crucifixion or Jesus's divinity into later insertions."
+        },
+        {
+          "verdict": "The manuscript record shows no post-Qur'anic textual change",
+          "text": "For the corruption defence to work, the Gospels must once have said something Qur'an-compatible that was later altered. But complete New Testament manuscripts predate Islam by centuries (Codex Sinaiticus and Vaticanus, 4th c.), and the Dead Sea Scrolls predate it for the Hebrew Bible — and they already carry the crucifixion and the high-Christology passages. There is no textual trace of a pre-Islamic, Qur'an-compatible Gospel later corrupted."
+        }
+      ],
+      "bottom_line": "The corruption-of-meaning reading (taḥrīf al-maʿnā) is genuinely supported by the Qur'an. But the corruption-of-the-text (taḥrīf al-naṣṣ) that the dilemma actually requires is not — and it runs against both the affirmation verses' plain command to judge by those books and the manuscript evidence that the books were unchanged. The dilemma's real force: the Qur'an endorses, and rests its own confirmation on, scriptures whose content it contradicts."
+    },
+    "sources": [
+      "Qur'an: 5:47, 5:68, 10:94, 4:157, 5:116, 112:1–4, 9:30 (Ḥafṣ text, KFGQPC; English, Pickthall, public domain).",
+      "Bible: John 19:18; Mark 15:24–25; 1 Corinthians 15:3–4; John 1:1; 20:28; 10:30; Matthew 28:19 (World English Bible, public domain).",
+      "taḥrīf al-maʿnā vs al-naṣṣ: the strong textual-corruption position is associated with Ibn Ḥazm (d. 1064); many earlier and later scholars held only meaning-distortion. — exact citations to verify.",
+      "Manuscript dates: Codex Sinaiticus & Vaticanus (4th c. CE); Dead Sea Scrolls (3rd c. BCE–1st c. CE) — both pre-Islamic."
+    ]
+  },
+  {
+    "id": "moon-splitting",
+    "title": "The splitting of the moon",
+    "question": "Was the Prophet given a physical miracle (āya / \"sign\")?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "Qur'an — sent “no sign” of the kind demanded",
+        "note": "Several verses are read as saying the Prophet was not given the miraculous signs his opponents asked for.",
+        "verses": [
+          {
+            "ref": "17:59",
+            "ar": "وَمَا مَنَعَنَآ أَن نُّرۡسِلَ بِٱلۡأٓيَٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلۡأَوَّلُونَۚ وَءَاتَيۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةٗ فَظَلَمُواْ بِهَاۚ وَمَا نُرۡسِلُ بِٱلۡأٓيَٰتِ إِلَّا تَخۡوِيفٗا",
+            "en": "Naught hindereth Us from sending portents save that the folk of old denied them. And We gave Thamud the she-camel — a clear portent — save to warn."
+          },
+          {
+            "ref": "29:50",
+            "ar": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَٰتٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ",
+            "en": "And they say: Why are not portents sent down upon him from his Lord? Say: Portents are with Allah only, and I am but a plain warner."
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "Hadith — the moon was split",
+        "note": "Sahih reports narrate a cosmic miracle in front of the Meccans.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "3868",
+            "in_book": "Book 63, Hadith 93",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Anas b. Mālik",
+            "ar": "أَنَّ أَهْلَ مَكَّةَ سَأَلُوا رَسُولَ اللَّهِ ﷺ أَنْ يُرِيَهُمْ آيَةً، فَأَرَاهُمُ الْقَمَرَ شِقَّتَيْنِ، حَتَّى رَأَوْا حِرَاءً بَيْنَهُمَا.",
+            "en": "The people of Mecca asked Allah's Messenger (ﷺ) to show them a miracle. So he showed them the moon split in two halves between which they saw the Hira' mountain.",
+            "url": "https://sunnah.com/bukhari:3868"
+          },
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "4864",
+            "in_book": "Book 65, Hadith 385 (Tafsīr of Sūrat al-Qamar)",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "ʿAbdullāh b. Masʿūd",
+            "ar": "انْشَقَّ الْقَمَرُ عَلَى عَهْدِ رَسُولِ اللَّهِ ﷺ فِرْقَتَيْنِ، فِرْقَةً فَوْقَ الْجَبَلِ وَفِرْقَةً دُونَهُ، فَقَالَ رَسُولُ اللَّهِ ﷺ: اشْهَدُوا.",
+            "en": "During the lifetime of Allah's Messenger (ﷺ) the moon was split into two parts; one part remained over the mountain, and the other part went beyond the mountain. On that, Allah's Messenger (ﷺ) said, “Witness this miracle.”",
+            "url": "https://sunnah.com/bukhari:4864"
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "Qur'an — the moon has split (54:1–2)",
+        "note": "A separate passage names the splitting of the moon directly.",
+        "verses": [
+          {
+            "ref": "54:1",
+            "ar": "ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ",
+            "en": "The hour drew nigh and the moon was rent in twain."
+          },
+          {
+            "ref": "54:2",
+            "ar": "وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ",
+            "en": "And if they behold a portent they turn away and say: Prolonged illusion."
+          }
+        ]
+      }
+    ],
+    "tension": "The “no sign” verses (17:59, 29:50) are read by some as saying the Prophet worked no compelling miracle, while Sahih hadith report a visible cosmic miracle — the moon splitting.",
+    "reconciliations": [
+      "The splitting is itself Qur'anic. Most exegetes read 54:1 (“the moon has split”) as a past event that already occurred, with 54:2 (“if they see a sign they turn away and call it magic”) describing the Meccans' reaction — matching the hadith. On this reading there is no Qur'an–hadith conflict; the hadith reports what 54:1–2 already states.",
+      "The “no sign” verses are commonly understood as: no punishment-sign of the kind sent to earlier nations who were then destroyed for denying it (17:59 cites Thamūd's she-camel), and/or no sign that would compel belief — not a denial that any miracle occurred.",
+      "A minority of exegetes read 54:1 as future (a portent of the Day of Judgement). On that reading the moon-splitting hadith is treated as a separate report, and the relationship between the two is discussed in the tafsīr literature."
+    ],
+    "addressing": {
+      "note": "How closely does each response follow the wording of the text — versus reading a distinction into it (eisegesis)? Assessed from the text itself, and noting honestly where a response is genuinely defensible.",
+      "points": [
+        {
+          "verdict": "Defensible grammatically, but contested — and it relocates the tension",
+          "text": "The past-event reading is grammatically sound: انشقّ is a perfect (past) verb, and the tradition reads it this way (al-Bukhārī places the Ibn Masʿūd report under the tafsīr of 54:1). This much is fair, not a stretch. But it is not settled: 54:1 pairs the splitting with “the Hour has drawn near,” and Arabic uses the perfect tense for certain eschatological events (cf. 16:1, “the command of God has come” — of a future event), so a future reading is also defensible, and some exegetes hold it. More decisively, even granting the past reading it does not dissolve the tension so much as move it: if the moon visibly split as a public sign, that is itself a compelling āya — precisely what 17:59 and 29:50 are read as denying. The conflict between 54:1 and the “no sign” verses simply becomes internal to the Qur'an."
+        },
+        {
+          "verdict": "Adds a qualifier the wording omits — partly warranted for 17:59, weak for 29:50",
+          "text": "The verses say al-āyāt (“the signs”), with no “punishment” or “compelling” attached; those words are supplied by the interpreter, not the text. For 17:59 there is some internal warrant: the verse itself cites Thamūd's she-camel (a sign followed by destruction) and says signs are sent “only as a warning” (takhwīfan) — so tying the withheld signs to the destruction-pattern is drawn from the verse, not invented. But 29:50 gives no such qualifier. Its wording is restrictive — “the signs are only (innamā) with God, and I am only a warner” — a flat statement that the Prophet does not himself furnish signs on demand. The moon-splitting report depicts exactly that: the Meccans ask for a sign and the Prophet produces one. To exempt it, one must read in a distinction (“this kind of sign is allowed”) that 29:50 does not make. On its plain wording, 29:50 tells against a Prophet-produced miracle on request."
+        },
+        {
+          "verdict": "Restates the tension rather than resolving it",
+          "text": "This is less a reconciliation than a concession. If 54:1 refers to a future portent of the Last Day, then the moon-splitting is not the Qur'anic event — and the hadith miracle then stands without Qur'anic support and in tension with the “no sign” verses. The original problem is left intact. It also cuts against response 1: a defender cannot both insist 54:1 is a settled past event and keep the future reading available; the same ambiguity invoked here weakens the confidence of response 1."
+        }
+      ],
+      "bottom_line": "The sharpest point that survives is 29:50's restrictive wording — “the signs are only with God, and I am only a warner” — set beside a report of the Prophet producing a public miracle on request. The responses that soften this add distinctions the text does not state; and whether the splitting is even the Qur'anic event (54:1) is itself unsettled. Response 2's reading of 17:59 is genuinely defensible from that verse's own context; the weight of the tension rests on 29:50."
+    },
+    "sources": [
+      "Hadith: Ṣaḥīḥ al-Bukhārī 3868 & 4864 (sunnah.com), graded Ṣaḥīḥ. Also narrated in Ṣaḥīḥ Muslim, Kitāb Ṣifat al-Qiyāma.",
+      "Qur'an: 17:59, 29:50, 54:1–2 (Ḥafṣ text, KFGQPC; English, Pickthall, public domain).",
+      "Exegetical positions on 54:1 (past vs future) and the meaning of the “no sign” verses: classical tafsīr — al-Ṭabarī, al-Qurṭubī, Ibn Kathīr on 54:1 and 17:59. — exact citations to verify."
+    ],
+    "type": "quran-hadith"
+  },
+  {
+    "id": "stoning-adultery",
+    "type": "quran-hadith",
+    "title": "Stoning for adultery",
+    "question": "Is the penalty for adultery a hundred lashes (Qur'an) or death by stoning (hadith)?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "Qur'an — a hundred lashes",
+        "note": "The only Qur'anic penalty named for zinā is flogging, with no exception for married offenders.",
+        "verses": [
+          {
+            "ref": "24:2",
+            "ar": "ٱلزَّانِيَةُ وَٱلزَّانِي فَٱجۡلِدُواْ كُلَّ وَٰحِدٖ مِّنۡهُمَا مِاْئَةَ جَلۡدَةٖۖ وَلَا تَأۡخُذۡكُم بِهِمَا رَأۡفَةٞ فِي دِينِ ٱللَّهِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ وَلۡيَشۡهَدۡ عَذَابَهُمَا طَآئِفَةٞ مِّنَ ٱلۡمُؤۡمِنِينَ",
+            "en": "The adulterer and the adulteress, scourge ye each one of them (with) a hundred stripes. And let not pity for the twain withhold you from obedience to Allah, if ye believe in Allah and the Last Day. And let a party of believers witness their punishment"
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "Hadith — stoning (rajm), and a lost “stoning verse”",
+        "note": "Sahih reports have the Prophet stoning married adulterers, and ʿUmar asserting a Qur'anic “verse of stoning” no longer in the text.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "6829",
+            "in_book": "Book 86, Hadith 55",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Ibn ʿAbbās (from ʿUmar)",
+            "ar": "قَالَ عُمَرُ: لَقَدْ خَشِيتُ أَنْ يَطُولَ بِالنَّاسِ زَمَانٌ حَتَّى يَقُولَ قَائِلٌ لاَ نَجِدُ الرَّجْمَ فِي كِتَابِ اللَّهِ، فَيَضِلُّوا بِتَرْكِ فَرِيضَةٍ أَنْزَلَهَا اللَّهُ، أَلاَ وَإِنَّ الرَّجْمَ حَقٌّ عَلَى مَنْ زَنَى وَقَدْ أَحْصَنَ، إِذَا قَامَتِ الْبَيِّنَةُ أَوْ كَانَ الْحَمْلُ أَوِ الاِعْتِرَافُ … أَلاَ وَقَدْ رَجَمَ رَسُولُ اللَّهِ ﷺ وَرَجَمْنَا بَعْدَهُ.",
+            "en": "ʿUmar said: “I am afraid that after a long time has passed, people may say, ‘We do not find the Verses of the Rajam (stoning) in the Holy Book,’ and consequently they may go astray by leaving an obligation that Allah has revealed. Lo! the penalty of Rajam is to be inflicted on him who commits illegal sexual intercourse if he is already married and the crime is proved by witnesses or pregnancy or confession… Lo! Allah's Messenger (ﷺ) carried out the penalty of Rajam, and so did we after him.”",
+            "url": "https://sunnah.com/bukhari:6829"
+          },
+          {
+            "collection": "Sahih Muslim",
+            "number": "1691a",
+            "in_book": "Book 29, Hadith 21",
+            "grade": "Ṣaḥīḥ (Muslim)",
+            "narrator": "Ibn ʿAbbās (from ʿUmar)",
+            "ar": "قَالَ عُمَرُ بْنُ الْخَطَّابِ وَهُوَ جَالِسٌ عَلَى مِنْبَرِ رَسُولِ اللَّهِ ﷺ: إِنَّ اللَّهَ قَدْ بَعَثَ مُحَمَّدًا ﷺ بِالْحَقِّ وَأَنْزَلَ عَلَيْهِ الْكِتَابَ، فَكَانَ مِمَّا أُنْزِلَ عَلَيْهِ آيَةُ الرَّجْمِ، قَرَأْنَاهَا وَوَعَيْنَاهَا وَعَقَلْنَاهَا، فَرَجَمَ رَسُولُ اللَّهِ ﷺ وَرَجَمْنَا بَعْدَهُ.",
+            "en": "ʿUmar b. al-Khaṭṭāb said, sitting on the pulpit of Allah's Messenger (ﷺ): “Allah sent Muhammad (ﷺ) with the truth and sent down the Book upon him, and the verse of stoning was among what was sent down to him. We recited it, retained it in memory and understood it. Allah's Messenger (ﷺ) awarded the punishment of stoning to death, and after him we also awarded it…”",
+            "url": "https://sunnah.com/muslim:1691a"
+          }
+        ]
+      }
+    ],
+    "tension": "The Qur'an prescribes a hundred lashes for the adulterer and adulteress (24:2), with no mention of stoning and no exemption. Sahih hadith, however, have the Prophet stoning married adulterers to death, and ʿUmar declaring that a “verse of stoning” was once revealed but is no longer in the Book. The written Qur'an and the sound hadith prescribe different penalties.",
+    "reconciliations": [
+      "Different cases: 24:2's flogging is for the unmarried (bikr); stoning (rajm) is for the married (muḥṣan). The hadith supplements, not contradicts, the Qur'an.",
+      "The “stoning verse” was revealed and its ruling stands, but its recitation was abrogated (naskh al-tilāwa dūna al-ḥukm) — so stoning is Qur'anically mandated even though the wording was withdrawn.",
+      "Stoning follows the Prophet's practice (Sunna), a binding source of law alongside the Qur'an."
+    ],
+    "addressing": {
+      "note": "Do these follow from 24:2's wording, or add to it?",
+      "points": [
+        {
+          "verdict": "24:2 states a general rule with no married/unmarried distinction",
+          "text": "The verse says “the adulteress and the adulterer — flog each of them a hundred stripes,” then stresses letting no pity stop the believers and having it witnessed. It draws no line between married and unmarried; the exemption for the muḥṣan comes from the hadith, not the verse. Reading the distinction in is coherent jurisprudence, but it is not in the text of 24:2."
+        },
+        {
+          "verdict": "The “abrogated verse” defence concedes the text lacks stoning",
+          "text": "Naskh al-tilāwa — a verse whose wording God removed but whose ruling stands — is itself an admission that the present Qur'an does not contain the stoning penalty. It rests entirely on ʿUmar's report. Whatever its standing as doctrine, it cannot show that the Qur'an as it exists prescribes stoning; it shows the opposite."
+        },
+        {
+          "verdict": "Genuinely debatable as a matter of legal theory",
+          "text": "Whether the Sunna may add a capital penalty the Qur'an does not state is a real, longstanding debate. The majority accept it; Qur'anist and some modernist scholars reject rajm precisely because it is absent from the Qur'an and 24:2 names a different penalty. This is a live intra-Muslim dispute, not a fringe objection."
+        }
+      ],
+      "bottom_line": "On its wording, 24:2 prescribes flogging for adultery with no exception. Stoning rests on sahih hadith plus a reported-but-absent “stoning verse” that even its defenders concede is not in today's Qur'an. The reconciliations are legally coherent, but they add to — and in the abrogation case openly go beyond — the Qur'anic text."
+    },
+    "sources": [
+      "Qur'an: 24:2 (Ḥafṣ text, KFGQPC; English, Pickthall, public domain).",
+      "Hadith: Ṣaḥīḥ al-Bukhārī 6829 & Ṣaḥīḥ Muslim 1691a (sunnah.com), both Ṣaḥīḥ.",
+      "Naskh al-tilāwa doctrine, and the majority vs Qur'anist positions on rajm: classical uṣūl al-fiqh and modern debate. — exact citations to verify."
+    ]
+  },
+  {
+    "id": "creation-days",
+    "type": "quran-quran",
+    "title": "How many days of creation?",
+    "question": "Were the heavens and the earth created in six days, or eight?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "Qur'an — six days",
+        "note": "Several verses give the creation as six days (also 10:3, 11:7, 25:59).",
+        "verses": [
+          {
+            "ref": "7:54",
+            "ar": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ يَطۡلُبُهُۥ حَثِيثٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتِۭ بِأَمۡرِهِۦٓۗ أَلَا لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ",
+            "en": "Lo! your Lord is Allah Who created the heavens and the earth in six Days, then mounted He the Throne. He covereth the night with the day, which is in haste to follow it, and hath made the sun and the moon and the stars subservient by His command. His verily is all creation and commandment. Blessed be Allah, the Lord of the Worlds"
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "Qur'an — two + four + two days (41:9–12)",
+        "note": "In Sūrat Fuṣṣilat the stages are itemised: earth (2), sustenance (4), heavens (2).",
+        "verses": [
+          {
+            "ref": "41:9",
+            "ar": "۞ قُلۡ أَئِنَّكُمۡ لَتَكۡفُرُونَ بِٱلَّذِي خَلَقَ ٱلۡأَرۡضَ فِي يَوۡمَيۡنِ وَتَجۡعَلُونَ لَهُۥٓ أَندَادٗاۚ ذَٰلِكَ رَبُّ ٱلۡعَٰلَمِينَ",
+            "en": "Say (O Muhammad, unto the idolaters): Disbelieve ye verily in Him Who created the earth in two Days, and ascribe ye unto Him rivals? He (and none else) is the Lord of the Worlds"
+          },
+          {
+            "ref": "41:10",
+            "ar": "وَجَعَلَ فِيهَا رَوَٰسِيَ مِن فَوۡقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقۡوَٰتَهَا فِيٓ أَرۡبَعَةِ أَيَّامٖ سَوَآءٗ لِّلسَّآئِلِينَ",
+            "en": "He placed therein firm hills rising above it, and blessed it and measured therein its sustenance in four Days, alike for (all) who ask"
+          },
+          {
+            "ref": "41:11",
+            "ar": "ثُمَّ ٱسۡتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِيَ دُخَانٞ فَقَالَ لَهَا وَلِلۡأَرۡضِ ٱئۡتِيَا طَوۡعًا أَوۡ كَرۡهٗا قَالَتَآ أَتَيۡنَا طَآئِعِينَ",
+            "en": "Then turned He to the heaven when it was smoke, and said unto it and unto the earth: Come both of you, willingly or loth. They said: We come, obedient"
+          },
+          {
+            "ref": "41:12",
+            "ar": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+            "en": "Then He ordained them seven heavens in two Days and inspired in each heaven its mandate; and We decked the nether heaven with lamps, and rendered it inviolable. That is the measuring of the Mighty, the Knower"
+          }
+        ]
+      }
+    ],
+    "tension": "The Qur'an repeatedly says the heavens and earth were created in six days (e.g. 7:54). But 41:9–12 itemises the stages — the earth in two days (41:9), its mountains and sustenance in four days (41:10), and the seven heavens in two days (41:12) — which read in sequence total 2 + 4 + 2 = eight days.",
+    "reconciliations": [
+      "The four days of 41:10 are inclusive of the two of 41:9 — “in four days” means “completing four days in total,” so the sum is 2 + (4−2) + 2 = 6, not eight.",
+      "The itemised days describe overlapping or concurrent phases, not a strict additive sequence; “six” is the overall figure."
+    ],
+    "addressing": {
+      "note": "Does the inclusive reading follow from the wording, or is it chosen to reach six?",
+      "points": [
+        {
+          "verdict": "Grammatically possible, but not the natural reading of the staged sequence",
+          "text": "41:9 gives two days for the earth; 41:10 then says God set mountains and measured sustenance “in four days”; 41:12 adds the heavens “in two days,” with the stages linked by “then” (thumma, 41:11). Read as the successive stages the wording lays out, the plain arithmetic is 2 + 4 + 2 = 8. The inclusive reading — that 41:10's four already contains 41:9's two — is grammatically available, but it is not what the staged, “then”-linked sequence most naturally says; it is the reading needed to recover six."
+        },
+        {
+          "verdict": "A genuine interpretive question, not a plain error",
+          "text": "This is honestly debatable. Classical exegetes noticed the sum and offered the inclusive reading precisely to harmonise with the “six days” verses, and the totalling sense of “in four days” is not impossible in Arabic. So it is better described as an unclarity the tradition resolves by choosing the harmonising reading than as a flat contradiction — but the harmonisation is a choice the bare wording does not force."
+        }
+      ],
+      "bottom_line": "Taken as the sequence it describes, 41:9–12 totals eight days against the six of 7:54; the standard fix reads 41:10's “four days” as inclusive of the earlier two. That reading is grammatically possible and long-established, but it is adopted to reach six rather than demanded by the text."
+    },
+    "sources": [
+      "Qur'an: 7:54; 41:9–12 (also 10:3, 11:7, 25:59) — Ḥafṣ text, KFGQPC; English, Pickthall, public domain.",
+      "The inclusive reading of 41:10 (“four days” totalling from the start): classical tafsīr (al-Ṭabarī, Ibn Kathīr on 41:10). — exact citations to verify."
+    ]
+  },
+  {
+    "id": "lot-wife",
+    "type": "quran-quran",
+    "title": "Did Lot's wife leave the city?",
+    "question": "Was Lot's wife among those who stayed behind in the city, or did she set out with the family and turn back?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "Qur'an — she stayed behind (al-ghābirīn)",
+        "note": "In several passages Lot's wife is “of those who stayed behind” — she remained and perished with the people.",
+        "verses": [
+          {
+            "ref": "7:83",
+            "ar": "فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+            "en": "And We rescued him and his household, save his wife, who was of those who stayed behind"
+          },
+          {
+            "ref": "27:57",
+            "ar": "فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَٰهَا مِنَ ٱلۡغَٰبِرِينَ",
+            "en": "Then We saved him and his household save his wife; We destined her to be of those who stayed behind"
+          },
+          {
+            "ref": "29:32",
+            "ar": "قَالَ إِنَّ فِيهَا لُوطٗاۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+            "en": "He said: Lo! Lot is there. They said: We are best aware of who is there. We are to deliver him and his household, all save his wife, who is of those who stay behind"
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "Qur'an — the family sets out; she is the exception who turns back",
+        "note": "But here the family is told to travel out by night, with the wife singled out as the one who “turns round.”",
+        "verses": [
+          {
+            "ref": "11:81",
+            "ar": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
+            "en": "(The messengers) said: O Lot! Lo! we are messengers of thy Lord; they shall not reach thee. So travel with thy people in a part of the night, and let not one of you turn round - (all) save thy wife. Lo! that which smiteth them will smite her (also). Lo! their tryst is (for) the morning. Is not the morning nigh"
+          }
+        ]
+      },
+      {
+        "kind": "reading",
+        "heading": "The reading of 11:81 itself decides it",
+        "note": "The word for “your wife” in 11:81 has two canonical readings differing only in the vowel on the tāʾ — and that single case-ending changes what she is excepted from.",
+        "ref": "11:81",
+        "readings": [
+          {
+            "label": "Ḥafṣ & the majority — accusative (imraʾata·ka)",
+            "ar": "إِلَّا ٱمۡرَأَتَكَ",
+            "meaning": "The exception attaches to “travel with your family” — do not take your wife. She is left behind in the city.",
+            "highlight": "تَ"
+          },
+          {
+            "label": "Ibn Kathīr & Abū ʿAmr — nominative (imraʾatu·ka)",
+            "ar": "إِلَّا ٱمۡرَأَتُكَ",
+            "meaning": "“Your wife” stands in apposition to “let none of you look back” — she sets out with them but looks back, and is struck.",
+            "highlight": "تُ"
+          }
+        ]
+      }
+    ],
+    "tension": "In several verses Lot's wife is “of those who stayed behind” (min al-ghābirīn) — she remained in the doomed city (7:83, 27:57, 29:32). But 11:81 has the family told to set out by night, with the wife singled out as the exception who is not to “turn round,” and whom the punishment will strike — a picture of her leaving with them and turning back, as in the Biblical account (Genesis 19:26). The reading of 11:81 is itself split: read in the accusative (Ḥafṣ) the wife is excepted from setting out — she stays; read in the nominative (Ibn Kathīr, Abū ʿAmr) she is the one who looks back — she leaves. The variant encodes the very question.",
+    "reconciliations": [
+      "“Al-ghābirīn” (those who stayed/remained behind) need not mean she never left; it can describe her fate — being “left to perish” — rather than her location. On this reading she set out but was destined for destruction, and there is no conflict.",
+      "Classical exegetes harmonise the accounts: she went out with the family but lagged behind, or turned back toward her people out of sympathy, and was struck — “staying behind” describes her lagging and her doom, not that she never departed."
+    ],
+    "addressing": {
+      "note": "Does “stayed behind” naturally describe someone who left the city — or someone who never did?",
+      "points": [
+        {
+          "verdict": "“Stayed behind” most naturally means she did not leave",
+          "text": "The phrase min al-ghābirīn (7:83, 27:57) is standardly rendered “of those who stayed/remained behind,” and its plain sense is that she remained with the people who were destroyed — that she did not depart with Lot. That sits awkwardly beside 11:81, where the family is told to travel and only the wife is excepted as the one who “turns round” — a picture of her setting out and looking back. “Never left” and “left and turned back” are not obviously the same claim."
+        },
+        {
+          "verdict": "The harmonising reading is available, and the word has range",
+          "text": "This is genuinely debatable. The root can carry the sense of one who “remains behind / lags,” and “turning round” can be read as looking back while departing — so the tradition's reconciliation (she left but lagged and looked back) is a real, defensible reading, not a forced one. It is the reading needed to align the passages, but the vocabulary permits it."
+        },
+        {
+          "verdict": "The qirāʾa variant does not settle it — it splits it",
+          "text": "Because 11:81 is recited two ways (accusative → she stays; nominative → she leaves and looks back), the two transmissions of the Qur'an themselves disagree on the point. This is not a copyist's slip: both are canonical readings. So the ambiguity between “stayed behind” and “left and turned back” is carried inside the recitation of this single verse, alongside the wording of 7:83/27:57."
+        }
+      ],
+      "bottom_line": "On its plainest sense, “of those who stayed behind” pictures Lot's wife remaining in the city, which is in tension with 11:81's picture of her travelling out and turning back. The standard harmonisation (she left but lagged, looked back, and shared their doom) is textually available and matches the Biblical account — but it is a chosen reading rather than the most obvious sense of “stayed behind.”"
+    },
+    "sources": [
+      "Qur'an: 7:83, 27:57, 29:32, 11:81 (also 15:65) — Ḥafṣ text, KFGQPC; English, Pickthall, public domain.",
+      "Biblical parallel: Genesis 19:26 (Lot's wife looks back and becomes a pillar of salt).",
+      "Meaning of al-ghābirīn and the harmonisation of the accounts: classical tafsīr (al-Ṭabarī, Ibn Kathīr on 7:83 and 11:81). — exact citations to verify."
+    ]
+  }
+]

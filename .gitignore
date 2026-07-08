@@ -1,0 +1,19 @@
+node_modules/
+Furqan/node_modules/
+Furqan/android/
+Furqan/ios/
+Furqan/.expo/
+Furqan/temp/
+temp/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+
+# Workspace-local Claude env and scratch
+.claude/
+CLAUDE.md
+spike-2-132.html
