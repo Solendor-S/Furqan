@@ -38,3 +38,13 @@
 .app-foot-link { background: none; border: none; cursor: pointer; color: var(--accent); font-size: 13px; font-weight: 600; padding: 0; }
 .app-foot-link:hover { text-decoration: underline; }
 .app-foot-data { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
+
+/* Mobile: full-width selects, tighter chrome, guard against sideways scroll. */
+@media (max-width: 640px) {
+  .app { padding: 14px 12px 48px; overflow-x: hidden; }
+  .app-title { font-size: 23px; }
+  .app-controls { gap: 10px 12px; margin: 14px 0 10px; }
+  .rd-selects { width: 100%; }
+  .app-controls select { max-width: none; }
+  .app-legend { gap: 12px 18px; }
+}
