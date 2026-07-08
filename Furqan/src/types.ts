@@ -52,7 +52,7 @@ export type TensionSection =
   | { kind: "hadith"; heading: string; note: string; hadiths: TensionHadith[] }
   | { kind: "scripture"; heading: string; note: string; passages: TensionScripture[] }
   | { kind: "reading"; heading: string; note: string; ref: string; readings: TensionReading[] };
-export type TensionType = "quran-bible" | "quran-hadith" | "quran-quran";
+export type TensionType = "quran-bible" | "quran-hadith" | "quran-quran" | "quran-textual";
 // Morals pillar reuses the Tension shape; its category enum is separate.
 export type MoralType = "marriage" | "violence" | "slavery" | "women" | "punishment";
 export type Tension = {

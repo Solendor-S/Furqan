@@ -34,6 +34,7 @@
 .tn-cat.quran-bible { background: var(--scripture-dim); color: var(--scripture); }
 .tn-cat.quran-hadith { background: var(--variant-dim); color: var(--variant); }
 .tn-cat.quran-quran { background: var(--accent-dim); color: var(--accent); }
+.tn-cat.quran-textual { background: var(--minor-dim); color: var(--minor); }
 /* Morals pillar categories */
 .tn-cat.marriage, .tn-cat.women { background: var(--scripture-dim); color: var(--scripture); }
 .tn-cat.violence, .tn-cat.punishment { background: var(--variant-dim); color: var(--variant); }

@@ -476,5 +476,193 @@
       "Biblical parallel: Genesis 19:26 (Lot's wife looks back and becomes a pillar of salt).",
       "Meaning of al-ghābirīn and the harmonisation of the accounts: classical tafsīr (al-Ṭabarī, Ibn Kathīr on 7:83 and 11:81). — exact citations to verify."
     ]
+  },
+  {
+    "id": "sun-setting",
+    "type": "quran-hadith",
+    "title": "Where does the sun set?",
+    "question": "Does the Qur'an place the sun's setting in an earthly spring — and the hadith, beneath God's Throne?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "The Qur'an — a setting-place at a spring",
+        "note": "Travelling west, Dhū'l-Qarnayn reaches the place of the sun's setting.",
+        "verses": [
+          {
+            "ref": "18:86",
+            "ar": "حَتَّىٰٓ إِذَا بَلَغَ مَغۡرِبَ ٱلشَّمۡسِ وَجَدَهَا تَغۡرُبُ فِي عَيۡنٍ حَمِئَةٖ وَوَجَدَ عِندَهَا قَوۡمٗاۖ قُلۡنَا يَٰذَا ٱلۡقَرۡنَيۡنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمۡ حُسۡنٗا",
+            "en": "Till, when he reached the setting-place of the sun, he found it setting in a muddy spring, and found a people thereabout. We said: O Dhu'l-Qarneyn! Either punish or show them kindness"
+          }
+        ]
+      },
+      {
+        "kind": "quran",
+        "heading": "The sun's appointed 'resting-place'",
+        "note": "",
+        "verses": [
+          {
+            "ref": "36:38",
+            "ar": "وَٱلشَّمۡسُ تَجۡرِي لِمُسۡتَقَرّٖ لَّهَاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+            "en": "And the sun runneth on unto a resting-place for him. That is the measuring of the Mighty, the Wise"
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "The hadith — the sun prostrates beneath the Throne",
+        "note": "Explaining 36:38, the Prophet describes where the sun goes each night.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "3199",
+            "in_book": "Book 59, Hadith 10",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Abū Dharr",
+            "ar": "قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي ذَرٍّ حِينَ غَرَبَتِ الشَّمْسُ \" تَدْرِي أَيْنَ تَذْهَبُ \". قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ. قَالَ \" فَإِنَّهَا تَذْهَبُ حَتَّى تَسْجُدَ تَحْتَ الْعَرْشِ، فَتَسْتَأْذِنَ فَيُؤْذَنَ لَهَا، وَيُوشِكُ أَنْ تَسْجُدَ فَلاَ يُقْبَلَ مِنْهَا، وَتَسْتَأْذِنَ فَلاَ يُؤْذَنَ لَهَا، يُقَالُ لَهَا ارْجِعِي مِنْ حَيْثُ جِئْتِ. فَتَطْلُعُ مِنْ مَغْرِبِهَا، فَذَلِكَ قَوْلُهُ تَعَالَى  {وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ } \".",
+            "en": "The Prophet (ﷺ) asked me at sunset, \"Do you know where the sun goes (at the time of sunset)?\" I replied, \"Allah and His Apostle know better.\" He said, \"It goes (i.e. travels) till it prostrates Itself underneath the Throne and takes the permission to rise again, and it is permitted and then (a time will come when) it will be about to prostrate itself but its prostration will not be accepted, and it will ask permission to go on its course but it will not be permitted, but it will be ordered to return whence it has come and so it will rise in the west. And that is the interpretation of the Statement of Allah: \"And the sun Runs its fixed course For a term (decreed). that is The Decree of (Allah) The Exalted in Might, The All- Knowing.\" (36.38)",
+            "url": "https://sunnah.com/bukhari:3199"
+          }
+        ]
+      }
+    ],
+    "tension": "Travelling west, Dhū'l-Qarnayn is said to have \"found [the sun] setting in a muddy spring\" (18:86); elsewhere the sun \"runs to a resting-place\" (36:38). Explaining that verse, the Prophet tells Abū Dharr the sun travels each night until it \"prostrates beneath the Throne\" and asks leave to rise, until one day it is refused and rises in the west (Bukhārī 3199). Read plainly, this pictures a sun that sets at a place a traveller can reach and returns to a fixed resting-point — a pre-modern cosmology rather than the astronomical account of a rotating earth.",
+    "reconciliations": [
+      "Perspective, not physics: 18:86 says Dhū'l-Qarnayn \"found it\" setting at the spring — it reports what the traveller saw at the western horizon over water, not a claim about the sun's real location.",
+      "\"Resting-place\" (mustaqarr, 36:38) is widely read as the sun's appointed orbit, or its term ending on the Last Day — not a physical bed.",
+      "The hadith concerns the unseen (ghayb): many scholars take the sun's \"prostration\" as its submission to God rather than a spatial act, and warn against over-literal readings of reports about the unseen."
+    ],
+    "addressing": {
+      "note": "These readings are mainstream; a source-critical reading still notes:",
+      "points": [
+        {
+          "verdict": "The 'perspective' reading fits the verse better than the hadith.",
+          "text": "18:86 can be read as observer-perspective, but the hadith supplies a mechanism — the sun travels, prostrates, seeks permission, and will one day be refused — which is harder to reduce to metaphor."
+        },
+        {
+          "verdict": "The wording is itself a reading variant.",
+          "text": "The spring is read ḥamiʾa (muddy) or ḥāmiya (hot); either way the text locates the sunset at a spring the traveller physically reached."
+        },
+        {
+          "verdict": "It tracks an older legend.",
+          "text": "The Dhū'l-Qarnayn episode closely parallels the Syriac Alexander Romance, in which Alexander reaches the place where the sun sets into a body of water — a shared Late-Antique motif (K. van Bladel, 2008)."
+        }
+      ],
+      "bottom_line": "The metaphor-and-perspective readings account well for the Qur'anic verses; the difficulty is sharper for the hadith, which narrates a concrete nightly journey. The texts are laid out above — the reader can weigh how fully \"as it appeared\" explains both."
+    },
+    "sources": [
+      "Qur'an 18:86; 36:38 — Ḥafṣ text (KFGQPC); translation Pickthall (public domain).",
+      "Ṣaḥīḥ al-Bukhārī 3199 (Book 59) — sunnah.com.",
+      "al-Ṭabarī and Ibn Kathīr, tafsīr on 18:86 (phenomenological reading; the ḥamiʾa/ḥāmiya qirāʾāt).",
+      "K. van Bladel, \"The Alexander Legend in the Qurʾān 18:83–102,\" in The Qurʾān in Its Historical Context (2008)."
+    ]
+  },
+  {
+    "id": "quran-preservation",
+    "type": "quran-textual",
+    "title": "One text, many codices: ʿUthmān's recension",
+    "question": "If the Qur'an was divinely preserved, why were rival copies burned — and why did a companion the Prophet named first keep a different codex?",
+    "sections": [
+      {
+        "kind": "quran",
+        "heading": "The claim of preservation",
+        "note": "The Qur'an says God Himself safeguards the revelation.",
+        "verses": [
+          {
+            "ref": "15:9",
+            "ar": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+            "en": "Lo! We, even We, reveal the Reminder, and lo! We verily are its Guardian"
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "The first collection — “no heavier than moving a mountain”",
+        "note": "After many reciters were killed at the Battle of Yamāma, Abū Bakr had Zayd ibn Thābit gather the scattered Qur'an.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "4986",
+            "in_book": "Book 66, Hadith 8",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Zayd ibn Thābit",
+            "ar": "أَرْسَلَ إِلَىَّ أَبُو بَكْرٍ مَقْتَلَ أَهْلِ الْيَمَامَةِ فَإِذَا عُمَرُ بْنُ الْخَطَّابِ عِنْدَهُ قَالَ أَبُو بَكْرٍ ـ رضى الله عنه ـ إِنَّ عُمَرَ أَتَانِي فَقَالَ إِنَّ الْقَتْلَ قَدِ اسْتَحَرَّ يَوْمَ الْيَمَامَةِ بِقُرَّاءِ الْقُرْآنِ وَإِنِّي أَخْشَى أَنْ يَسْتَحِرَّ الْقَتْلُ بِالْقُرَّاءِ بِالْمَوَاطِنِ، فَيَذْهَبَ كَثِيرٌ مِنَ الْقُرْآنِ وَإِنِّي أَرَى أَنْ تَأْمُرَ بِجَمْعِ الْقُرْآنِ. قُلْتُ لِعُمَرَ كَيْفَ تَفْعَلُ شَيْئًا لَمْ يَفْعَلْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ عُمَرُ هَذَا وَاللَّهِ خَيْرٌ. فَلَمْ يَزَلْ عُمَرُ يُرَاجِعُنِي حَتَّى شَرَحَ اللَّهُ صَدْرِي لِذَلِكَ، وَرَأَيْتُ فِي ذَلِكَ الَّذِي رَأَى عُمَرُ. قَالَ زَيْدٌ قَالَ أَبُو بَكْرٍ إِنَّكَ رَجُلٌ شَابٌّ عَاقِلٌ لاَ نَتَّهِمُكَ، وَقَدْ كُنْتَ تَكْتُبُ الْوَحْىَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَتَتَبَّعِ الْقُرْآنَ فَاجْمَعْهُ فَوَاللَّهِ لَوْ كَلَّفُونِي نَقْلَ جَبَلٍ مِنَ الْجِبَالِ مَا كَانَ أَثْقَلَ عَلَىَّ مِمَّا أَمَرَنِي مِنْ جَمْعِ الْقُرْآنِ قُلْتُ كَيْفَ تَفْعَلُونَ شَيْئًا لَمْ يَفْعَلْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ هُوَ وَاللَّهِ خَيْرٌ فَلَمْ يَزَلْ أَبُو بَكْرٍ يُرَاجِعُنِي حَتَّى شَرَحَ اللَّهُ صَدْرِي لِلَّذِي شَرَحَ لَهُ صَدْرَ أَبِي بَكْرٍ وَعُمَرَ ـ رضى الله عنهما ـ فَتَتَبَّعْتُ الْقُرْآنَ أَجْمَعُهُ مِنَ الْعُسُبِ وَاللِّخَافِ وَصُدُورِ الرِّجَالِ حَتَّى وَجَدْتُ آخِرَ سُورَةِ التَّوْبَةِ مَعَ أَبِي خُزَيْمَةَ الأَنْصَارِيِّ لَمْ أَجِدْهَا مَعَ أَحَدٍ غَيْرَهُ  {لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ}  حَتَّى خَاتِمَةِ بَرَاءَةَ، فَكَانَتِ الصُّحُفُ عِنْدَ أَبِي بَكْرٍ حَتَّى تَوَفَّاهُ اللَّهُ ثُمَّ عِنْدَ عُمَرَ حَيَاتَهُ ثُمَّ عِنْدَ حَفْصَةَ بِنْتِ عُمَرَ ـ رضى الله عنه ـ.",
+            "en": "Abu Bakr As-Siddiq sent for me when the people of Yamama had been killed (i.e., a number of the Prophet's Companions who fought against Musailima). (I went to him) and found `Umar bin Al- Khattab sitting with him. Abu Bakr then said (to me), \"`Umar has come to me and said: \"Casualties were heavy among the Qurra' of the Qur'an (i.e. those who knew the Qur'an by heart) on the day of the Battle of Yamama, and I am afraid that more heavy casualties may take place among the Qurra' on other battlefields, whereby a large part of the Qur'an may be lost. Therefore I suggest, you (Abu Bakr) order that the Qur'an be collected.\" I said to `Umar, \"How can you do something which Allah's Apostle did not do?\" `Umar said, \"By Allah, that is a good project.\" `Umar kept on urging me to accept his proposal till Allah opened my chest for it and I began to realize the good in the idea which `Umar had realized.\" Then Abu Bakr said (to me). 'You are a wise young man and we do not have any suspicion about you, and you used to write the Divine Inspiration for Allah's Messenger (ﷺ). So you should search for (the fragmentary scripts of) the Qur'an and collect it in one book.\" By Allah If they had ordered me to shift one of the mountains, it would not have been heavier for me than this ordering me to collect the Qur'an. Then I said to Abu Bakr, \"How will you do something which Allah's Messenger (ﷺ) did not do?\" Abu Bakr replied, \"By Allah, it is a good project.\" Abu Bakr kept on urging me to accept his idea until Allah opened my chest for what He had opened the chests of Abu Bakr and `Umar. So I started looking for the Qur'an and collecting it from (what was written on) palme stalks, thin white stones and also from the men who knew it by heart, till I found the last Verse of Surat at-Tauba (Repentance) with Abi Khuzaima Al-Ansari, and I did not find it with anybody other than him. The Verse is: 'Verily there has come unto you an Apostle (Muhammad) from amongst yourselves. It grieves him that you should receive any injury or difficulty..(till the end of Surat-Baraa' (at-Tauba) (9.128-129). Then the complete manuscripts (copy) of the Qur'an remained with Abu Bakr till he died, then with `Umar till the end of his life, and then with Hafsa, the daughter of `Umar.",
+            "url": "https://sunnah.com/bukhari:4986"
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "ʿUthmān standardizes — and burns the rest",
+        "note": "Alarmed that the armies of Syria and Iraq recited differently, ʿUthmān has one text copied and the rest destroyed.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "4987",
+            "in_book": "Book 66, Hadith 9",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Anas ibn Mālik",
+            "ar": "أَنَّ حُذَيْفَةَ بْنَ الْيَمَانِ قَدِمَ عَلَى عُثْمَانَ وَكَانَ يُغَازِي أَهْلَ الشَّأْمِ فِي فَتْحِ إِرْمِينِيَةَ وَأَذْرَبِيجَانَ مَعَ أَهْلِ الْعِرَاقِ فَأَفْزَعَ حُذَيْفَةَ اخْتِلاَفُهُمْ فِي الْقِرَاءَةِ فَقَالَ حُذَيْفَةُ لِعُثْمَانَ يَا أَمِيرَ الْمُؤْمِنِينَ أَدْرِكْ هَذِهِ الأُمَّةَ قَبْلَ أَنْ يَخْتَلِفُوا فِي الْكِتَابِ اخْتِلاَفَ الْيَهُودِ وَالنَّصَارَى فَأَرْسَلَ عُثْمَانُ إِلَى حَفْصَةَ أَنْ أَرْسِلِي إِلَيْنَا بِالصُّحُفِ نَنْسَخُهَا فِي الْمَصَاحِفِ ثُمَّ نَرُدُّهَا إِلَيْكِ فَأَرْسَلَتْ بِهَا حَفْصَةُ إِلَى عُثْمَانَ فَأَمَرَ زَيْدَ بْنَ ثَابِتٍ وَعَبْدَ اللَّهِ بْنَ الزُّبَيْرِ وَسَعِيدَ بْنَ الْعَاصِ وَعَبْدَ الرَّحْمَنِ بْنَ الْحَارِثِ بْنِ هِشَامٍ فَنَسَخُوهَا فِي الْمَصَاحِفِ وَقَالَ عُثْمَانُ لِلرَّهْطِ الْقُرَشِيِّينَ الثَّلاَثَةِ إِذَا اخْتَلَفْتُمْ أَنْتُمْ وَزَيْدُ بْنُ ثَابِتٍ فِي شَىْءٍ مِنَ الْقُرْآنِ فَاكْتُبُوهُ بِلِسَانِ قُرَيْشٍ فَإِنَّمَا نَزَلَ بِلِسَانِهِمْ فَفَعَلُوا حَتَّى إِذَا نَسَخُوا الصُّحُفَ فِي الْمَصَاحِفِ رَدَّ عُثْمَانُ الصُّحُفَ إِلَى حَفْصَةَ وَأَرْسَلَ إِلَى كُلِّ أُفُقٍ بِمُصْحَفٍ مِمَّا نَسَخُوا وَأَمَرَ بِمَا سِوَاهُ مِنَ الْقُرْآنِ فِي كُلِّ صَحِيفَةٍ أَوْ مُصْحَفٍ أَنْ يُحْرَقَ .",
+            "en": "Hudhaifa bin Al-Yaman came to `Uthman at the time when the people of Sham and the people of Iraq were Waging war to conquer Arminya and Adharbijan. Hudhaifa was afraid of their (the people of Sham and Iraq) differences in the recitation of the Qur'an, so he said to `Uthman, \"O chief of the Believers! Save this nation before they differ about the Book (Qur'an) as Jews and the Christians did before.\" So `Uthman sent a message to Hafsa saying, \"Send us the manuscripts of the Qur'an so that we may compile the Qur'anic materials in perfect copies and return the manuscripts to you.\" Hafsa sent it to `Uthman. `Uthman then ordered Zaid bin Thabit, `Abdullah bin AzZubair, Sa`id bin Al-As and `AbdurRahman bin Harith bin Hisham to rewrite the manuscripts in perfect copies. `Uthman said to the three Quraishi men, \"In case you disagree with Zaid bin Thabit on any point in the Qur'an, then write it in the dialect of Quraish, the Qur'an was revealed in their tongue.\" They did so, and when they had written many copies, `Uthman returned the original manuscripts to Hafsa. `Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur'anic materials, whether written in fragmentary manuscripts or whole copies, be burnt.",
+            "url": "https://sunnah.com/bukhari:4987"
+          }
+        ]
+      },
+      {
+        "kind": "hadith",
+        "heading": "Ibn Masʿūd — a teacher the Prophet named first",
+        "note": "The Prophet listed Ibn Masʿūd first of four to learn the Qur'an from; yet his codex differed and he resisted the recension.",
+        "hadiths": [
+          {
+            "collection": "Sahih al-Bukhari",
+            "number": "4999",
+            "in_book": "Book 66, Hadith 21",
+            "grade": "Ṣaḥīḥ (al-Bukhārī)",
+            "narrator": "Masrūq (from ʿAbdullāh ibn ʿAmr)",
+            "ar": "ذَكَرَ عَبْدُ اللَّهِ بْنُ عَمْرٍو عَبْدَ اللَّهِ بْنَ مَسْعُودٍ فَقَالَ لاَ أَزَالُ أُحِبُّهُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ \" خُذُوا الْقُرْآنَ مِنْ أَرْبَعَةٍ مِنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ وَسَالِمٍ وَمُعَاذٍ وَأُبَىِّ بْنِ كَعْبٍ \" .",
+            "en": "`Abdullah bin `Amr mentioned `Abdullah bin Masud and said, \"I shall ever love that man, for I heard the Prophet (ﷺ) saying, 'Take (learn) the Qur'an from four: `Abdullah bin Masud, Salim, Mu`adh and Ubai bin Ka`b.' \"",
+            "url": "https://sunnah.com/bukhari:4999"
+          }
+        ]
+      }
+    ],
+    "tension": "The Qur'an declares, \"We have sent down the Reminder, and We are its Guardian\" (15:9). Yet its collection was neither simple nor immediate. After many Qur'an-reciters were killed at the Battle of Yamāma, Abū Bakr had Zayd ibn Thābit gather the scattered text — a task Zayd said would have been no heavier had he been ordered to move a mountain — piecing it together \"from palm-leaf stalks, thin white stones, and the hearts of men,\" until he found the closing verses of Sūrat al-Tawba with only one man, Abū Khuzayma (Bukhārī 4986). A generation later the armies of Syria and Iraq were still disputing the recitation, so ʿUthmān had a committee copy one text \"in perfect copies\" and ordered \"all the other Qur'anic materials … be burnt\" (Bukhārī 4987). Among the superseded texts was the codex of ʿAbdullāh ibn Masʿūd — whom the Prophet named first of four to \"take the Qur'an from\" (Bukhārī 4999) — who resisted surrendering his copy, and whose muṣḥaf is reported (Ibn Abī Dāwūd's Kitāb al-Maṣāḥif; al-Suyūṭī's Itqān) to have differed in readings and omitted al-Fātiḥa (1) and the two \"protective\" sūras, al-Falaq (113) and al-Nās (114).",
+    "reconciliations": [
+      "The Yamāma collection was verification, not reconstruction: Zayd cross-checked what was written against what the many ḥuffāẓ had memorised, requiring corroboration for each passage. His \"mountain\" remark conveys the gravity of the trust, not doubt about the text; the closing verses of al-Tawba were found in writing with only Abū Khuzayma, though they were memorised by others.",
+      "Preserved through the recension: mainstream scholarship holds that 15:9's guardianship was realised precisely by ʿUthmān's unification — the text was safeguarded, not lost. What was burned were personal or annotated copies and non-standard spellings, not a rival Qur'an.",
+      "The 'seven aḥruf': the Prophet permitted the Qur'an in several dialectal modes (Bukhārī 4992); ʿUthmān fixed one rasm to end disputes without denying those modes' original licence.",
+      "Ibn Masʿūd did not deny the disputed sūras were Qur'an. al-Bāqillānī holds he declined to inscribe in his personal codex anything he had not heard the Prophet command be written, and treated 113–114 as protective prayers; he later accepted the ʿUthmānic text for unity's sake.",
+      "Isnād caution: several reports of his variants come through chains later scholars questioned, and the ʿUthmānic consonantal text was ratified by the consensus (ijmāʿ) of the Companions."
+    ],
+    "addressing": {
+      "note": "These are the standard responses; the source-critical rejoinder:",
+      "points": [
+        {
+          "verdict": "The collection itself was born of a fear of loss — and bent its own corroboration rule.",
+          "text": "ʿUmar pressed for the collection because reciters were dying and \"a large part of the Qur'an may be lost\" (Bukhārī 4986) — a fear that assumes the text was not yet secured beyond those memories. And where the reconciliation says each passage was corroborated, the same report has Zayd find the close of al-Tawba written with \"nobody other than\" Abū Khuzayma — at least one passage entering the muṣḥaf on a single written witness. Neither point denies wide memorisation, but both sit awkwardly with a text described as already perfectly and completely preserved."
+        },
+        {
+          "verdict": "Unification implies prior disunity.",
+          "text": "That a caliph needed to impose one text and destroy the alternatives shows the early community did not already hold a single identical Qur'an. 'Preservation' squares with this only if it means preserving one chosen recension, not the whole revelation as it was recited."
+        },
+        {
+          "verdict": "A prophet-endorsed teacher differed on contents, not just accent.",
+          "text": "Omitting whole sūras (1, 113, 114) is a difference of contents, not dialect — and it came from the very man the Prophet named first to learn the Qur'an from, which is hard to set aside as marginal."
+        },
+        {
+          "verdict": "The rasm was fixed; the reading was not.",
+          "text": "Even after ʿUthmān, the canonical qirāʾāt still diverge — as this app documents word by word. So 'one perfectly preserved text' is exact only for the consonantal skeleton, not the fully-voweled recitation."
+        }
+      ],
+      "bottom_line": "The consonantal text was fixed early and transmitted with remarkable stability — a genuine historical achievement. Whether that amounts to the perfect, unaltered preservation 15:9 is often taken to promise — given a recension that superseded and burned rival codices, one of them from a teacher the Prophet praised — is what the reader is left to weigh. The primary sources are above; see also the Manuscripts tab for the early codices."
+    },
+    "sources": [
+      "Qur'an 15:9 — Ḥafṣ text (KFGQPC); translation Pickthall (public domain).",
+      "Ṣaḥīḥ al-Bukhārī 4986 (Abū Bakr's collection); 4987 (ʿUthmānic recension); 4999 (the four teachers); 4992 (seven aḥruf) — sunnah.com.",
+      "Ibn Abī Dāwūd, Kitāb al-Maṣāḥif.",
+      "Jalāl al-Dīn al-Suyūṭī, al-Itqān fī ʿulūm al-Qurʾān.",
+      "Ibn al-Athīr, al-Kāmil fī al-tārīkh (Ibn Masʿūd at Kūfa).",
+      "al-Bāqillānī, al-Intiṣār li-l-Qurʾān (on Ibn Masʿūd and the two sūras)."
+    ]
   }
 ]

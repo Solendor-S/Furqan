@@ -5,6 +5,7 @@ const TYPE_LABEL: Record<TensionType, string> = {
   "quran-bible": "Qur'an ↔ Bible",
   "quran-hadith": "Qur'an ↔ Hadith",
   "quran-quran": "Qur'an ↔ Qur'an",
+  "quran-textual": "Textual reliability",
 };
 
 type Props = {
