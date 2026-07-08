@@ -1,5 +1,7 @@
 # Furqan
 
+**Live:** [furqan-4q7.pages.dev](https://furqan-4q7.pages.dev)
+
 A fully **offline** Qur'an study app focused on **textual variance and
 source-critical analysis**. Not a plain reader — the core purpose is
 **comparison and critique**, everything citation-backed and on-device.
